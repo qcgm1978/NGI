@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title></title>
+<meta name="description" content="">
+<meta name="author" content="SitePoint">
+</head>
+<body>
+<div class="w800 h480 bc vc" style="background-image:url(../images/bg01.png)">
+ <header class="h60">
+  <h1 class="fl fc f34 fb fw h1_w">
+  详细信息
+  </h1>
+  <img src="../images/back.png" width="113" height="43" alt="返回按钮" id="detailsReturn" class='fr mt10 mr8'>
+  </header>
+  <!--  主题内容 -->
+<article class="p4 pr" style="height: 250px">
+ <dl class="fc_text f24 w ml100">
+  <dt class="fl cl mt30 lh50"><img src="../main_menu/favorite/images/name.png" width="89" height="32" alt="名称"></dt>
+  <dd class="fl   w500 h50 lh50 mt20 ml20 pl20" id="title" style="background-image: url(../main_menu/favorite/images/text_input.png);background-repeat:no-repeat; "></dd>
+  <dt class="fl cl mt30 lh50"><img src="../main_menu/favorite/images/address.png" width="89" height="31" alt="地址"></dt>
+  <dd class="fl   w500 h50 lh50 mt20 ml20 pl20" id="address" style="background-image: url(../main_menu/favorite/images/text_input.png);background-repeat:no-repeat; "></dd>
+  <dt class="fl cl mt30 lh50"><img src="../main_menu/favorite/images/telephone.png" width="88" height="31" alt="电话"></dt>
+  <dd class="fl   w500 h50 lh50 mt20 ml20 pl20" id="tel" style="background-image: url(../main_menu/favorite/images/text_input.png);background-repeat:no-repeat; "></dd>
+  </dl>
+</article>
+<footer class='tc mt50'>
+        <img src="images/details_images/set_destination.png" width="153" height="53" alt="设为目的地按钮" id="set_destn">
+</footer>
+</div>
+
+<script type="text/javascript">
+$(function() {
+	//调用先前搜索页面写入的兴趣点数据
+    var config =GLOBAL.Constant.poi_search_result;
+    $('#title').text(config.name);
+    $('#address').text(config.address);
+    $('#tel').text(config.tel);
+
+    //绑定设为目的地图片点击事件
+    $('#set_destn').off().click(function () {
+        if (Tab.validate_poi()) {
+            $('#detailsDiv').remove();
+            GLOBAL.Constant.nav_obj.handlePageLogic=GLOBAL.NavClass.displayDoubleLightLayer;
+            GpsNav.prepareRequestPath();
+        }
+        else {
+            var layer =  GLOBAL.layer.createNew({
+                id:'confirm_box',
+                msg:GLOBAL.Constant.prompt_doublication
+            });
+            layer.show();
+            // 设为目的地按钮改为灰色图片，尚未提供图片
+            // 代码写在这
+        }
+    });
+    //绑定返回、确定按钮点击事件
+    $('#detailsReturn').off().click(function () {
+        GLOBAL.Event.NGIStateManager.goToPreviousState(showMapScreen);
+    });
+    function showMapScreen() {
+        $('#detailsDiv').remove();
+        return true;
+    }
+
+});
+</script>
+
+</body></html>

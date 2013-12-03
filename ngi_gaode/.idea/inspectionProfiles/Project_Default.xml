@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="JasmineAdapterSupport" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="ngi_gaode" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="JsTestDriverTestCaseWithoutTests" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="ngi_gaode" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="JstdAssertionFrameworkSupport" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="ngi_gaode" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="QUnitAdapterSupport" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="ngi_gaode" level="WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>

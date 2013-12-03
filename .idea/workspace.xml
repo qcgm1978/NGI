@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="f65edef7-ce3b-45cb-926a-d5b96e0ec4ed" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/navigate/.idea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets/util/1.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/align-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-color" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-curve" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-easing" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-node-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-scroll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-shape-transform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-shape" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/anim-xy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/anim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/anim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/anim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/app-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/app-content" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/manual/app-content" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/manual/app-root" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/app-transitions-css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/app-transitions-native" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/app-transitions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/manual/app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/array-extras" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/array-invoke" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/arraylist-add" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/arraylist-filter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/arraylist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/arraysort" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/arraysort" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-list/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar-base/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendarnavigator/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/clickable-rail/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console-filters/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base-deprecated/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-message/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-scroll/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dial/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-flick/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-menunav/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/overlay/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/panel/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/range-slider/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-base/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-constrain/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-plugin/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-proxy/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-base/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-list/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-scrollbars/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-value-range/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview-base/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview-plugin/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/test-console/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-deprecated/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-flash/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-html5/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-queue/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-base/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-base-ie/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-buttons/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-htmlparser/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-locale/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-modality/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-skin/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-stack/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-uievents/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/anim/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/arraysort/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/async-queue/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/attribute/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/autocomplete/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/autocomplete/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/base/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/button/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cache/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/calendar/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/charts/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/classnamemanager/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/collection/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/common/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/common/tests/manual/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console-filters/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cookie/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datasource/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable-deprecated/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/date/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dd/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dial/tests/manual/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dial/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dom/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dump/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/editor/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/escape/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-custom/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-gestures/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-valuechange/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/get/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/graphics/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/handlebars/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/highlight/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/history/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/history/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/imageloader/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/intl/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/json/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/jsonp/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/matrix/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-scroll-info/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/number/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/oop/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/overlay/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/parallel/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pluginhost/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/profiler/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/querystring/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/queue-promote/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/resize/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/scrollview/tests/manual/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/simpleyui/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/slider/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/sortable/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/stylesheet/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/swf/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/tabview/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test-console/tests/manual/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/text/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader-deprecated/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader/tests/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader/tests/manual/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-anim/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-autohide/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-buttons/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-modality/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-align/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-constrain/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stack/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stdmod/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/xml/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yql/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui-throttle/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets/skin-test/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/async-queue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/async-queue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/async-queue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/async-queue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/attribute-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/attribute-complex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/attribute-core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/attribute-events" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/attribute-extras" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/attribute" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/attribute" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/attribute" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/audio-light" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/audio" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-filters-accentfold" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-highlighters-accentfold" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-highlighters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-list-keys" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-sources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/autocomplete" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/autocomplete" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/autocomplete" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax/tests/manual/bar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/base-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/base-build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/base-core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/base-pluginhost" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax/tests/manual/baz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/history/tests/manual/bugs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/button-core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/button-group" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/button-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/button" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/button" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/button" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/button" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cache-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cache-offline" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cache-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/calendar/tests/calendar-base-manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/calendar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/calendar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/calendar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendarnavigator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/capsule-dark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/capsule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/charts-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/charts-legend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/charts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/charts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/charts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/charts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/classes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/classnamemanager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/classnamemanager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/arraysort/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/async-queue/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/base/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/classnamemanager/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/collection/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dump/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-custom/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/intl/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/io/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/json/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/oop/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/parallel/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pluginhost/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/querystring/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yql/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui-throttle/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/clickable-rail" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/collection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/common" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console-filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/console-filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/console-filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console-filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cookie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/cookie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/cookie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cookie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/get/tests/coverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/coverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/coverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/createlink-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/assets/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/panel/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssbase-context" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssbase" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/cssbase" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/cssbase" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssbutton" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssfonts-context" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssfonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/cssfonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/cssfonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssgrids-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssgrids-context-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssgrids-units" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssgrids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/cssgrids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/cssgrids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssreset-context" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/cssreset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/cssreset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/cssreset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dataschema-array" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dataschema-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dataschema-json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dataschema-text" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dataschema-xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/dataschema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/dataschema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dataschema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-arrayschema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-function" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-get" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-io" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-jsonschema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-polling" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-textschema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datasource-xmlschema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/datasource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/datasource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datasource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-body" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-column-widths" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-datasource-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-datasource" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/datatable-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/datatable-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-head" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-message" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-mutable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-scroll-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-scroll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-table" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/datatable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/datatable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-date-format" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-date-math" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-date-parse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-number-format" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-number-parse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-xml-format" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-xml-parse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/datatype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/datatype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/date" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-constrain" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-ddm-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-ddm-drop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-ddm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-delegate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-drag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-drop-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-drop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-gestures" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-proxy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dd-scroll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/dd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/dd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/navigate/destn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dial" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/dial" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/dial" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dial" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/.idea/dictionaries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-attrs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-create" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-screen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-size" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-style-ie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dom-style" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dump" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dump" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-bidi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-br" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-lists" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-para-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-para-ie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-para" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-selection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/editor-tab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/editor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/editor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/editor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/escape" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/escape" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-base-ie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-contextmenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-custom-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-custom-complex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/event-custom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/event-custom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-custom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-delegate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-flick" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-focus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-gestures" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-hover" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-mouseenter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-mousewheel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-move" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-outside" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-resize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-simulate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-simulate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-synthetic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-tap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-touch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/event-valuechange" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-valuechange" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/event" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/event" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/exec-command" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable/tests/extra" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/oop/tests/extra" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/querystring/tests/extra" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/features" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/file-flash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/file-html5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/files" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/assets/foo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax/tests/manual/foo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/frame" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/gesture-simulate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/gesture-simulate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/get-nodejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/get" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/get" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/get" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/get/tests/unit/getfiles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/graphics-canvas-default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/graphics-canvas" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/graphics-svg-default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/graphics-svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/graphics-vml-default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/graphics-vml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/graphics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/graphics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/graphics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/graphics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets/skin-test/assets/skins/green" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/handlebars-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/handlebars-compiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/highlight-accentfold" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/highlight-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/highlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/history-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/history-hash-ie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/history-hash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/history-html5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/imageloader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/imageloader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/imageloader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/imageloader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/console/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/console-filters/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/cssgrids/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/dd/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/dial/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/node/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/panel/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/slider/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/sortable/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/yui/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/common/tests/manual/assets/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dial/tests/manual/assets/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/assets/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/attribute/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/autocomplete/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/charts/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/graphics/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/overlay/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/widget/img" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/.idea/inspectionProfiles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/intl-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/intl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/intl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/intl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/intl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/io-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/io-form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/io-nodejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/io-queue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/io-upload-iframe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/io-xdr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/io" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/io" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/io" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/.idea/jsLinters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/navigate/destn/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/assets/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/graphics/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/io/tests/unit/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/json-parse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/json-stringify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/jsonp-url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/jsonp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/jsonp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/jsonp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/jsonp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-list/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar-base/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-message/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort-deprecated/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatype-date-format/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dial/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/intl/translator/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/assets/test-payload-view/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/lazy-model-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/manual/lazy-model-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/io/tests/cli/lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/json/tests/cli/lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/.idea/libraries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/loader-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/loader-rollup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/loader-yui3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/loader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/anim/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/async-queue/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/attribute/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/autocomplete/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/base/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/button/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/calendar/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/charts/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/common/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console-filters/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable-deprecated/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dial/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-gestures/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-valuechange/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/file/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/get/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/graphics/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/handlebars/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/history/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/intl/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/io/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-flick/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-focusmanager/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-scroll-info/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/overlay/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/panel/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/queue-promote/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/resize/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/scrollview/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/slider/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/stylesheet/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test-console/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/transition/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-anim/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-buttons/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-modality/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-align/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stdmod/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/manual" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/navigate/js/map.js_files" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/matrix" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/matrix" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/model-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/model-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/model-sync-rest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/modules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-list/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar-base/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendarnavigator/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base-deprecated/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-message/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-scroll/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dial/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-menunav/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/overlay/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/panel/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-base/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-constrain/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-plugin/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-proxy/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-base/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-list/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-scrollbars/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-base/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-buttons/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-modality/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-stack/assets/skins/night" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-event-delegate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-event-html5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-event-simulate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-flick" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-flick" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-focusmanager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/node-focusmanager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/node-focusmanager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-focusmanager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-load" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-menunav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/node-menunav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/node-menunav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-pluginhost" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-screen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-scroll-info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-scroll-info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-style" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/number" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/oop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/oop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/overlay" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/overlay" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/overlay" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/overlay" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/panel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/panel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/panel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/panel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/parallel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/parallel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/attribute/tests/performance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cache/tests/performance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dataschema/tests/performance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datasource/tests/performance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable/tests/performance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/number/tests/performance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/dd/photos" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/pjax-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/pjax-content" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/pjax-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/pjax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/pjax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/pluginhost-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/pluginhost-config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pluginhost" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/dd/portal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/assets/vendor/prettify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/vendor/prettify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/profiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/profiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/profiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/profiler" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/manual/todos-rest/public" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/querystring-parse-simple" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/querystring-parse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/querystring-stringify-simple" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/querystring-stringify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/querystring" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/queue-promote" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/queue-promote" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/range-slider" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/recordset-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/recordset-filter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/recordset-indexer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/recordset-sort" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/recordset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/recordset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/recordset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/releasenotes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-constrain" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-proxy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/resize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/resize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/resize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/round-dark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/round" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/router" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/router" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/.idea/runConfigurations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/sam-dark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-list/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar-base/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendarnavigator/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console-filters/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base-deprecated/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-message/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-scroll/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dial/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-flick/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-menunav/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/overlay/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/panel/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-base/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-constrain/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-plugin/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-proxy/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-base/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-list/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-scrollbars/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/test-console/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-base/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-buttons/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-modality/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-stack/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets/skin-test/assets/skins/sam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/navigate/.idea/scopes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-base-ie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-paginator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-scrollbars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/scrollview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/scrollview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/scrollview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/selector-css2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/selector-css3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/selector-native" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/selector" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/jsonp/tests/server" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/server" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/shim-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/simpleyui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/simpleyui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets/skin-test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/autocomplete-list/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar-base/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendar/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/calendarnavigator/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console-filters/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/console/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base-deprecated/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-base/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-message/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-scroll/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/datatable-sort/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/dial/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-flick/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/node-menunav/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/overlay/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/panel/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-base/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-constrain/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-plugin/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/resize-proxy/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-base/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-list/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/scrollview-scrollbars/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/test-console/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-base/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-buttons/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-modality/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-stack/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets/skin-test/assets/skins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/slider-value-range" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/slider" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/slider" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/slider" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/sortable-scroll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/sortable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/sortable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/sortable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/sortable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable-deprecated/tests/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/jsonp/tests/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/stylesheet/tests/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/stylesheet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/stylesheet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/stylesheet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/stylesheet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/substitute" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/substitute" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/swfdetect" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/swfdetect" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview-plugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/tabview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/tabview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/tabview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/tabview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/test-console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/test-console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test-console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/assets/test-payload-view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/anim/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/arraysort/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/async-queue/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/attribute/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/autocomplete/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/base/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/button/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cache/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/calendar/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/charts/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/classnamemanager/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/collection/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/common/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console-filters/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cookie/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dataschema/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datasource/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable-deprecated/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/date/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dd/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dial/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dom/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dump/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/editor/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/escape/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-custom/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-gestures/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-simulate/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-valuechange/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/file/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/gesture-simulate/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/get/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/graphics/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/handlebars/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/highlight/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/history/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/imageloader/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/intl/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/io/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/json/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/jsonp/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/matrix/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-flick/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-focusmanager/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-scroll-info/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/number/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/oop/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/overlay/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/panel/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/parallel/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pluginhost/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/profiler/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/querystring/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/queue-promote/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/recordset/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/resize/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/scrollview/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/simpleyui/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/slider/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/sortable/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/stylesheet/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/substitute/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/swf/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/swfdetect/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/tabview/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test-console/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/text/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/transition/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader-deprecated/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-anim/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-autohide/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-buttons/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-modality/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-parent/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-align/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-constrain/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stack/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stdmod/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/xml/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yql/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui-throttle/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/text-accentfold" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/text-data-accentfold" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/text-data-wordbreak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/text-wordbreak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/text" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/manual/todos-rest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/transition-timer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/transition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/transition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/transition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/transition" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/intl/translator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/anim/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/arraysort/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/async-queue/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/attribute/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/autocomplete/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/base/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/button/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cache/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/calendar/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/charts/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/classnamemanager/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/collection/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console-filters/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/console/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/cookie/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dataschema/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datasource/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/datatable/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/date/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dd/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dial/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dom/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/dump/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/editor/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/escape/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-custom/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-gestures/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-simulate/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-valuechange/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/gesture-simulate/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/get/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/graphics/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/handlebars/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/highlight/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/history/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/imageloader/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/intl/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/io/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/json/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/loader/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/matrix/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-focusmanager/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node-scroll-info/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/node/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/number/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/oop/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/overlay/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/panel/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/parallel/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pjax/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/pluginhost/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/profiler/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/querystring/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/queue-promote/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/recordset/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/resize/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/scrollview/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/simpleyui/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/slider/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/sortable/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/substitute/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/tabview/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/text/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-anim/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-autohide/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-buttons/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-modality/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-parent/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-align/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-constrain/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stack/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stdmod/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/xml/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yql/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui-throttle/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/uploader-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/uploader-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader-deprecated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-flash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-html5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader-queue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/uploader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/uploader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/uploader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/uploader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui/tests/unit/assets/util" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/api/assets/vendor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/vendor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/view-node-map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-anim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-anim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-autohide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-autohide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-base-ie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-buttons" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-buttons" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-child" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-htmlparser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-locale" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-modality" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-modality" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-parent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-parent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-position-align" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-align" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-position-constrain" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position-constrain" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-position" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-position" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-skin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-stack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stack" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-stdmod" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget-stdmod" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/widget-uievents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/widget" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/widget" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/widget" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yql-nodejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yql-winjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/yql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/yql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui-base" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui-core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui-later" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui-log-nodejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui-log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui-nodejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui-throttle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui-throttle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/yui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/yui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/yui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/yui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/app/tests/benchmark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/base/tests/benchmark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/event-custom/tests/benchmark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/build/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/docs/assets/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ngi_gaode/yui/tests/test" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\codeStyleSettings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\libraries\sass_stdlib.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\about\us.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\function\function.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\index.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.structure.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.structure.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom\jquery.mobile.custom.theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile-1.2.0.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile-1.2.0.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile-1.2.0.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile-1.2.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile.structure-1.2.0.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile.structure-1.2.0.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile.theme-1.2.0.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\jquery.mobile.theme-1.2.0.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\code.photoswipe-3.0.5.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\code.photoswipe-3.0.5.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\generate-slider.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\home.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\iscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\jquery.mobile.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\klass.min.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\subpage.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\test.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js\util.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\common.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\home960.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\jquery.mobile-1.2.0.min.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\mobile240.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\mobile320.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\mobile480.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\mobile800.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\mobile960.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\photoswipe.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\screen320.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\screen480.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\screen_width640.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\version\android.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\version\iphone.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\android\01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\android\02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\android\03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\android\04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\android\05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\delete\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\delete\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\delete\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\delete\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\delete\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\delete\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\about" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\about_go.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\about_list_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\android" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\android_ios_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\back-bj-press.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\back.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\banben.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\bg_global.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\bg_header.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\bg_main_indicator.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\chanpinliangdian.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios\delete" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\download_press.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\error.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\fly_way.iml" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\function" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\guanyu.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\guanyuwomen.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\images\icons-18-black.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\images\icons-18-black.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\images\icons-18-white.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\images\icons-18-white.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\images\icons-36-black.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\images\icons-36-black.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\images\icons-36-white.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\images\icons-36-white.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\icons@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0\images" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles\images" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\indicator_ring.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\indicator_ring_uncheck.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version\ios" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\jiaodiao-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\jiaodiao-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\jiaodiao-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\jiaodiao-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery.mobile.custom" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\jquery_mobile-1.2.0" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\js" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\liangdian.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\libraries" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\light-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\light-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\light-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\light-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\light-top.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\light-top.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\main_area_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\main_area_border.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\main_version_code.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\.idea\scopes" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\styles" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\top_logo.ico" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\version" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version_indicator_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\version_ring.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\xiazai.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\PHPnow-1.5.6\htdocs\NGI\flynaviportal\images\zhuanli.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ngi_gaode/navigate/js/ui.js" afterPath="$PROJECT_DIR$/ngi_gaode/navigate/js/ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ngi_gaode/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ngi_gaode/.idea/workspace.xml" />
+    </list>
+    <ignored path="NGI.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="NGI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="constant.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ngi_gaode/javascript/constant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="329" column="21" selection-start="9127" selection-end="9127" vertical-scroll-proportion="6.2020726" vertical-offset="2736" max-vertical-offset="9158">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1231" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NGI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NGI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NGI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ngi_gaode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="35502e25-4406-4541-a360-d126ecbe5de0">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="58a9aac2-f025-43c4-a060-ac99785e433d">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="5bfec6f3-676f-40fa-966d-542852d9d141">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="6a764e80-a501-4f55-98ba-f07ce3037fb5">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="8340898a-5131-44f7-8352-e2f7f8ea37d5">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="8587b6da-bb72-4e8f-ba3e-f39987af617b">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="90c32f65-50e3-4997-846e-722de45f1233">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="9d897dd3-6c29-4465-a600-fbfe1e76aabb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="bb61cadb-dc12-4bb4-a171-83e8eba3ffa3">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="e0de170b-7dca-4377-bbca-c40afd96f6ab">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\qcgm1978\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\PHPnow-1.5.6\htdocs\NGI" />
+          <option name="myCopyRoot" value="F:\PHPnow-1.5.6\htdocs\NGI" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\PHPnow-1.5.6\htdocs\NGI" />
+          <option name="myCopyRoot" value="F:\PHPnow-1.5.6\htdocs\NGI" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f65edef7-ce3b-45cb-926a-d5b96e0ec4ed" name="Default" comment="" />
+      <created>1369650598526</created>
+      <updated>1369650598526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1231" height="1040" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32853982" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.260497" sideWeight="0.67146015" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ngi_gaode/javascript/constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="8" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="5985" max-vertical-offset="9082">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngi_gaode/javascript/constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="8" selection-start="8758" selection-end="8758" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngi_gaode/javascript/constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="329" column="21" selection-start="9127" selection-end="9127" vertical-scroll-proportion="6.2020726" vertical-offset="2736" max-vertical-offset="9158">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

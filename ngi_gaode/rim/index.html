@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="author" content="SitePoint">
+    <link rel="stylesheet" href='../css/base.css'>
+    <link rel="stylesheet" href='../css/common.css'>
+    <style type="text/css">
+        table {
+            margin: 6px 0 0 0;
+        }
+
+        td {
+            padding: 8px 17px 8px 16px;
+        }
+
+        input:-moz-placeholder {
+            color: #24305d;
+            font-weight: bold;
+            font-size: 24px;
+        }
+
+        ::-webkit-input-placeholder {
+            color: #24305d;
+            font-weight: bold;
+            font-size: 24px;
+        }
+    </style>
+    <script type="text/javascript" src="../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+<div class="w800 h480 bc vc">
+    <header class="h60">
+        <h1 class="fl fc f34 fb fw">周边检索</h1>
+        <img src="../images/back.png" width="113" height="43" alt="返回按钮" class='fr mt10 mr8'>
+        <!--<button class='fr'>返回</button>-->
+    </header>
+    <!--  主题内容 -->
+    <article class="p4">
+        <form
+                style="background-image: url(../main_menu/destn/images/images/bg02.png); background-repeat: no-repeat; line-height: 60px;"
+                class="h60 cb">
+            <img src="images/images/search_key.png" width="127" height="24" alt="检索关键字"
+                 style="position: absolute;top:79px;left:28px;">
+            <input type='search' required autocomplete
+                   placeholder="输入检索关键字" id="keyword" pattern=".*\S+.*"
+                   style="background-image: url(images/images/search_key_bg.png); width: 342px; height: 41px;color:#24305d;position: absolute;top:70px;left:170px;background-color: transparent;filter:alpha(opacity=50);"
+                   class="f24 fb vm  fc_td">
+            <input value="" type="submit" id="btnSearch_poi" disabled="disabled"
+                   style="background-image: url(images/images/retrieval_gray.png); width: 110px; height: 41px;position: absolute;top:70px;left:532px;"
+                   class="vm">
+            <img src="images/images/search_range.png" width="110" height="41" alt="检索范围按钮"
+                 style="position: absolute;top:70px;left:662px;" id="btnSearch_range">
+        </form>
+
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td><img src="images/images/poi01.png" width="123" height="98" alt="加油站"></td>
+                <td><img src="images/images/poi02.png" width="123" height="98" alt="停车场"></td>
+                <td><img src="images/images/poi03.png" width="123" height="98" alt="中餐厅"></td>
+                <td><img name="snack_bar" src="images/images/poi04.png" width="123" height="98" alt="快餐厅"></td>
+                <td><img src="images/images/poi05.png" width="123" height="98" alt="宾馆"></td>
+            </tr>
+            <tr>
+
+                <td><img src="images/images/poi06.png" width="123" height="98" alt="银行"></td>
+                <td><img src="images/images/poi07.png" width="123" height="98" alt="自动提款机"></td>
+                <td><img name="telecommunication" src="images/images/poi08.png" width="123" height="98" alt="超级市场"></td>
+                <td><img src="images/images/poi09.png" alt="电讯营业厅" name="amusement" width="123" height="98"
+                         id="amusement"></td>
+                <td><img src="images/images/poi10.png" alt="娱乐场所" name="scenery" width="123" height="98" id="scenery">
+                </td>
+            </tr>
+            <tr>
+
+                <td><img src="images/images/poi11.png" alt="风景名胜" name="hospital" width="123" height="98" class="tc"
+                         id="hospital"></td>
+                <td><img src="images/images/poi12.png" alt="综合医院" name="toilet" width="123" height="98" id="toilet">
+                </td>
+                <td><img src="images/images/poi13.png" alt="公共厕所" name="service_station" width="123" height="98"
+                         id="service_station"></td>
+                <td><img src="images/images/poi14.png" alt="通用维修" name="more" width="123" height="98" id="more"></td>
+                <td><img src="images/images/poi15.png" alt="更多设置" name="scenery" width="123" height="98"
+                         id="btnMoreFacilities"></td>
+            </tr>
+        </table>
+    </article>
+    <script src="../javascript/jquery-1.8.2.js"></script>
+    <script src="../javascript/constant.js"></script>
+    <script src="../javascript/common.js"></script>
+    <script src="../javascript/tab.js"></script>
+    <script src="../javascript/layer.js"></script>
+    <script type="text/javascript">
+        //销毁过去的全局搜索实例
+        parent.searchRim = null;
+        //绑定输入框事件
+        $('#keyword').focus(function () {
+            $('#btnSearch_poi').removeAttr("disabled").css('background-image', 'url(../main_menu/destn/images/images/retrieval.png)');
+        });
+        $('input').bind('keyup', function () {
+            var flag = false;
+            flag = Tab.checkLength(GLOBAL.Constant.maxLength, $(this));
+            if (flag) {
+                if (GLOBAL.layer.hasOwnProperty("createNew")) {
+                    GLOBAL.layer.createNew({id:"confirm_box", msg:GLOBAL.Constant.prompt_reInput}).show();
+                } else {
+                    parent.GLOBAL.layer.createNew({id:"confirm_box", msg:GLOBAL.Constant.prompt_reInput}).show();
+                }
+            }
+        });
+        //绑定检索按钮点击事件
+
+        $('form').submit(function (e) {
+            parent.layerPoi.showProcessLayer();
+            if (e && e.preventDefault) {//如果是非ie下执行这个
+                e.preventDefault();
+            } else {
+                window.event.returnValue = false;//如果是IE下执行这个
+            }
+            var keyword = $('#keyword').val();
+            if ($.trim(keyword) != '') {
+                var configSearchRim = {
+                    keyword:keyword,
+                    callback:function (data) {
+                        parent.layerPoi.hideProcessLayer();
+                        if (parent.businessManager.noDataHandler.call(this)) {
+                            return;
+                        }
+                        var config = {
+                            searchInstance:this
+                        };
+                        parent.GLOBAL.Event.NGIStateManager.goToNextState(parent.GLOBAL.Constant.NGIStates.PoiSearchResult, parent.businessManager.searchPoiButtonListener, config);
+                    }
+                };
+                configSearchRim = parent.uiManager.utilSearch.extendSearchParam(configSearchRim);
+                var searchRim = new parent.PoiSearchClass(configSearchRim);
+                searchRim.handleEvent();
+                parent.businessManager.setNoDataPoiLayer(searchRim);
+            }
+        });
+        //绑定搜索类型图标点击事件
+        $('td img:not(:last)').click(function () {
+            parent.layerPoi.showProcessLayer();
+            var type = $(this).attr('alt');
+            var configSearchRim = {
+                type:type,
+                callback:function () {
+                    parent.layerPoi.hideProcessLayer();
+                    if (parent.businessManager.noDataHandler.call(this)) {
+                        return;
+                    }
+                    var config = {
+                        searchInstance:this
+                    };
+                    parent.GLOBAL.Event.NGIStateManager.goToNextState(parent.GLOBAL.Constant.NGIStates.PoiSearchResult, parent.businessManager.searchPoiButtonListener, config);
+                }
+            };
+            configSearchRim = parent.uiManager.utilSearch.extendSearchParam(configSearchRim);
+            var searchRim = new parent.PoiSearchClass(configSearchRim);
+            searchRim.handleEvent();
+            parent.businessManager.setNoDataPoiLayer(searchRim);
+        });
+        //绑定更多设施图标点击事件
+        $('#btnMoreFacilities').click(function () {
+            parent.GLOBAL.Event.NGIStateManager.goToNextState(GLOBAL.Constant.NGIStates.NearBySearchMore, showNearBySearchMoreScreen);
+        });
+        //绑定检索范围图标点击事件
+        $('#btnSearch_range').click(function () {
+                    parent.GLOBAL.Event.NGIStateManager.goToNextState(GLOBAL.Constant.NGIStates.PoiSearchRange, showNearbySearchRangeScreen);
+                }
+        );
+        //显示更多设施界面
+        function showNearBySearchMoreScreen() {
+            location.href = '../main_menu/destn/more.html';
+            return true;
+        }
+        //显示检索范围界面
+        function showNearbySearchRangeScreen() {
+            location.href = 'range.html';
+            return true;
+        }
+    </script>
+</div>
+</body>
+</html>

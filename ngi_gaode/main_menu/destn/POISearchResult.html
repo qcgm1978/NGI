@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)file:///D:/workspaces/Eclipse/NGI/main_menu/destn/index.html -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title></title>
+<meta name="description" content="">
+<meta name="author" content="SitePoint">
+<link rel="stylesheet" href="../../css/base.css">
+<link rel="stylesheet" href="../../css/common.css">
+<link rel="stylesheet" href="css/style.css">
+<style type="text/css">
+    td:first-of-type {
+        background-image: url(../../images/btn02.png);
+        background-position:0 50%;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        width: 712px;
+        display: block;
+        line-height: 57px;
+    }
+#resultTable td:first-of-type {
+	background-image: url(../../images/btn02.png); background-position:0 50%;
+	text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+width: 712px;
+display: block;
+line-height: 57px;
+}
+h1{width:315px;}
+article{height: 347px;}
+#resultTable{margin-left: 29px;}
+#searchTable {
+    /*height:330px; */
+    width: 760px;
+    margin-left: 18px;
+}
+
+#searchTable td:nth-child(odd) {
+    background-repeat: no-repeat;
+    background-position:0 center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 540px;
+    padding-right: 20px;
+    display: inline-block;
+    line-height: 57px;
+}
+
+#searchTable td:nth-child(even) {
+    background-repeat: no-repeat;
+    width: 183px;
+    background-position:0 center;
+}
+
+#searchTable td {
+    color: #24305d;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 12px;
+    background-image: url(images/images/btn05.png);
+    background-repeat: no-repeat;
+    filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+    -moz-background-size:100% 80%;
+    -webkit-background-size: 100% 80%;
+    background-size: 100% 80%;
+}
+ #filterHTML td {
+            background-image: url(images/images/btn02.png);
+            width: 733px;
+            height: 57px;
+            background-position:0 50%;
+            background-repeat: no-repeat;
+            background-position:0 50%;
+            text-align: left;
+            color: #24305d;
+            background-repeat: no-repeat;
+            font-size: 24px;
+            font-weight: bold;
+            padding-left: 20px;
+        }
+
+        #filterHTML article {
+            height: 340px;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+
+</style>
+    <script type="text/javascript" src="../../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+	<div id="searchResultHTML" class="w800 h480 bc vc"
+		style="background-image: url(../../images/bg01.png);">
+		<header class="h60">
+			<h1 class="fl fc f34 fb fw"></h1>
+            <input type="button"
+				style="background-image: url(images/images/filter.png); width: 113px; height: 43px;"
+				class=" mt10 none" id="filter">
+			<a href="javascript:void(0)"><img
+				src="../../images/back.png" width="113" height="43" alt="返回按钮"
+				class="fr mt10 mr8"></a>
+			<!--<button class='fr'>返回</button>-->
+		</header>
+		<!--  主题内容 -->
+		<article class="p4 pr" style="overflow: hidden;">
+		 <table id="searchTable" width="100%" class="mt10">
+        </table>
+
+		</article>
+		<footer id="btn_toggle" class="tc">
+			<img src="../../images/previous_page.png" width="153"
+				height="53" alt="上一页" id="prev_button"> <img
+				src="../../images/next_page.png" width="153" height="53"
+				alt="下一页" id="next_button">
+		</footer>
+
+	</div>
+	<script src="../../javascript/jquery-1.8.2.js"></script>
+    <script src="../../javascript/constant.js"></script>
+    <script src="../../javascript/common.js"></script>
+	<script src="../../javascript/layer.js"></script>
+    <script src="js/classes.js"></script>
+    <script src="../../javascript/DragClass.js"></script>
+	<script type="text/javascript" src="js/POISearchResult.js"></script>
+    <!--<script src="../../javascript/tab.js"></script>-->
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>启动界面</title>
+<meta name="description" content="">
+<meta name="author" content="SitePoint">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">  
+<link rel="stylesheet" href='../css/base.css'>
+<link rel="stylesheet" href='../css/common.css'>
+<style type="text/css">
+div{background-image:url(images/bg05.png);}
+table{margin-left: 12px;}
+#logo{
+    margin-left: 225px;
+    margin-top: 98px;}
+#aside_scroll{margin-top:75px; text-align:center;  }
+strong { display:block; margin-top:5px; }
+.meter {
+    display:inline-block;
+    height: 20px;
+    width:410px;
+    background: transparent;
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    padding: 5px;
+    -webkit-box-shadow:  0 1px 3px rgba(255, 255, 255, 0.3);
+    -moz-box-shadow   :  0 1px 3px rgba(255, 255, 255, 0.3);
+    box-shadow        :  0 1px 3px rgba(255, 255, 255, 0.3);
+}
+.meter > span {
+    display: block;
+    height: 100%;
+    border-radius: 20px;
+    background-color:#2A7CAB;
+    background-image:  -webkit-gradient(linear,left bottom,left top,color-stop(0, #005180),color-stop(1, #5CB3E5));
+    background-image: -moz-linear-gradient(center bottom,#005180 37%,#5CB3E5 69%);
+    box-shadow:
+        inset 0 2px 1px rgba(255, 255, 255, 0.6), inset 0 1px 1px rgba(0, 0, 0, 0.7);
+    position: relative;
+    overflow: hidden;
+    -webkit-animation: move 2.5s linear;
+}
+@-webkit-keyframes move {
+		    0% {width:0;}
+		    100% {width:100%;}
+		}
+</style>
+    <script type="text/javascript" src="../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+<div class="w800 h480 bc vc">
+
+  <!--  主题内容 -->
+<article class="p4">
+  <img src="images/logo.png" width="351" height="213" alt="上海通用汽车logo" id="logo"> 
+  <aside id="aside_scroll">
+ <!-- <div id="progress"><img src="images/loading01.png" width="403" height="23" alt="滑块图标"></div> -->
+      <div class="meter">
+          <span style="width: 100%"></span>
+      </div>
+  <strong><img src="images/loading.png" width="81" height="15" alt="加载中图标"></strong>
+  </aside>
+</article>
+
+</div>
+<div id="test"></div>
+<script src="../javascript/jquery-1.8.2.js"></script>
+<script src="../javascript/constant.js"></script>
+<script src="../javascript/common.js"></script>
+<script src="../javascript/layer.js"></script>
+<script src="start.js"></script>
+</body></html>

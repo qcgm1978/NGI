@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+/* changed by zhanghongliang */
+/*#light_cross_html {position: absolute;top: 0px;z-index: 201;opacity: 0.8;}*/
+#light_cross_html {
+    position: relative;
+    top: -480px;
+    z-index: 201;
+    opacity: 0.8;
+    filter:alpha(opacity=80);
+}
+#light_cross_html strong{display:inline-block;}
+#light_cross_html #input_first{width:133px; height:43px; background-image:url(../navigate/images/images/road_details.png);}
+#light_cross_html table{margin-left: 12px;}
+/*#light_cross_html #btn_toggle{display:none;}*/
+/*需设置article高度，各页面根据背景图宽度不同*/
+#light_cross_html article{overflow:hidden;}
+#light_cross_html mark{background-image:url(../navigate/images/images/panel07.png); width:83px; height:102px;position: absolute;
+left: 10px;
+z-index: 101;
+top: 10px;
+text-align: center;
+padding-top: 5px;
+background-repeat: no-repeat;
+background-color: inherit;}
+#light_cross_html figure{margin-left:6px; text-align:center; float:left;}
+#light_cross_html figure:first-of-type{ background-image:url(../navigate/images/images/select02_on.png); width:56px; height:321px;}
+#light_cross_html figure:last-of-type{ background-image:url(../navigate/images/images/select02.png); width:56px; height:321px;}
+#light_cross_html figure figcaption img{margin-top:10px;}
+#light_cross_html section{width:326px; height:71px; -webkit-box-orient: vertical;-moz-box-orient: vertical;}
+#light_cross_html section:first-of-type{ background-image:url(../navigate/images/images/select01_on.png); }
+#light_cross_html section:last-of-type{ background-image:url(../navigate/images/images/select01.png); }
+#light_cross_html header{}
+#light_cross_html .mb6{margin-bottom:6px;}
+#light_cross_html dl{margin-left:10px; margin-top:5px;}
+#light_cross_html dt{margin-top:10px;}
+#light_cross_html figcaption + p {width:20px; height:256px; /*background-image:url(images/images/dynamic_bar.png);*/margin-left: 17px;
+margin-top: 7px; overflow:hidden;}
+#light_cross_html #zoom_out_light_cross{position: absolute;
+left: 10px;
+z-index: 101;
+top: 240px;}
+#light_cross_html #zoom_in_light_cross{position: absolute;
+top: 240px;
+left: 568px;
+z-index:101;}
+#light_cross_html strong img{position:relative; bottom:5px;}
+#light_cross_html #right_nav{/*display:-webkit-box;*/}
+
+#light_cross_html .route-detail-font{
+	font-size: 16px;
+	color: #E5F2FF;
+	font-family: '方正粗圆简体';
+	margin-left: 8px;
+	font-weight: 900;
+}

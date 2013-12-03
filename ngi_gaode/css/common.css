@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* body{color:white; }*/
+.bg_color {
+    background-color: #2F354D;
+}
+
+/* p{background-image:url(../navigate/images/panel27.png); width:473px; height:123px; margin:100px auto; color:black; }*/
+.pr_span {
+    left: -60px;
+    top: 84px;
+}
+
+.pr_span_time {
+    left: 150px;
+    top: 84px;
+}
+
+input[type="text"] {
+    text-align: center;
+}
+
+input[type="tel"] {
+    text-align: center;
+}
+
+h1 {
+    margin-left: 12px;
+    margin-top: 11px;
+}
+
+/*不再显示滚动条*/
+/*article{ overflow-y:auto;overflow-x: hidden; /*article height由各页面单独设置，因为背景图高度不同}*/
+a {
+    text-decoration: none;
+    color: #24305d;
+}
+
+table {
+    margin-left: 12px;
+}
+
+.h1_w {
+    width: 315px;
+}
+
+.fc_text {
+    color: #24305d;
+}
+
+/*隐藏灵格斯嵌入div*/
+#lingoes_plugin_object {
+    display: none;
+}
+
+::-webkit-scrollbar {
+    width: 22px;
+    /*background-image:url(../images_pres/scroll_bg.png);*/
+    /*background-repeat:no-repeat;*/
+    /*background-size:cover;*/
+    -webkit-border-image:url(../images_pres/scroll_bg.png) 0 50%/0 50%;
+}
+
+::-moz-scrollbar {
+    width: 21px; /*对垂直流动条有效*/
+    background-image: url(../images_pres/scroll_bg.png);
+    background-repeat: no-repeat;
+    /**/
+    background-size: cover;
+
+}
+
+/* 设置滚动条的滑动块，直接设置滑动块背景图无效？ */
+::-webkit-scrollbar-thumb {
+    height: 107px;
+    /*  bg img not get the middle to not go through the top and bottom. So, instead, with another new CSS trick: border-image. refference:http://almaer.com/blog/creating-custom-scrollbars-with-css-how-css-isnt-great-for-every-task*/
+    -webkit-border-image: url(../images_pres/scroll.png) 3 stretch stretch;
+
+    border-width: 3px;
+}
+
+::-moz-scrollbar-thumb {
+    height: 107px;
+    /*  bg img not get the middle to not go through the top and bottom. So, instead, with another new CSS trick: border-image. refference:http://almaer.com/blog/creating-custom-scrollbars-with-css-how-css-isnt-great-for-every-task*/
+    -moz-border-image: url(../images_pres/scroll.png) 3 stretch stretch;
+    border-width: 3px;
+}
+
+::-webkit-scrollbar-thumb:active {
+    -webkit-border-image: url(../images_pres/scroll_on.png) 3 stretch stretch;
+}
+
+::-moz-scrollbar-thumb:active {
+    -moz-border-image: url(../images_pres/scroll_on.png) 3 stretch stretch;
+}
+
+@-moz-document url-prefix() {
+    scrollbar {
+        width: 21px;/*对垂直流动条有效*/
+        background-image:url(../images_pres/scroll_bg.png);
+        background-repeat:no-repeat;
+        /**/
+        background-size:cover;
+
+    }
+    scrollbar-thumb {
+        height:107px;
+        /*  bg img not get the middle to not go through the top and bottom. So, instead, with another new CSS trick: border-image. refference:http://almaer.com/blog/creating-custom-scrollbars-with-css-how-css-isnt-great-for-every-task*/
+        -moz-border-image: url(../images_pres/scroll.png) 3 stretch stretch;
+        border-width: 3px;
+    }
+    ::-moz-scrollbar-thumb:active {-moz-border-image: url(../images_pres/scroll_on.png) 3 stretch stretch;}
+}
+/* SCROLLBAR */
+scrollbar thumb:not(:hover) {
+    opacity: 0.7 !important;
+    width: 10px !important;
+}
+
+scrollbar thumb[orient="vertical"], textbox scrollbar thumb[orient="vertical"] {
+    -moz-appearance: none !important;
+    border-radius: 12px !important;
+    border: 2px solid #FFF !important;
+    box-shadow: 0px 2px 14px 4px rgba(0, 0, 0, 0.5), inset 0px 0px 6px rgba(0, 0, 0, .5) !important;
+    background: #777 !important;
+}
+
+scrollbar[orient="horizontal"] {
+    height: 12px !important
+}
+
+scrollbar>slider {
+    background: #ECECEC !important;
+    border-radius: 12px;
+    box-shadow: inset 0px 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+scrollbar thumb:active, scrollbar thumb:focus, textbox scrollbar thumb[orient="vertical"]:active, textbox scrollbar thumb[orient="vertical"]:focus {
+    /* box-shadow: 0px 1px 8px 3px #000 !important; */
+    box-shadow: 0px 1px 8px 3px rgba(0, 0, 0, 0.8), inset 0 0 4px #0B39A3 !important;
+    background: #0088FF !important;
+}
+
+/* hide scrollbar up/down buttons */
+scrollbar scrollbarbutton {
+    visibility: collapse !important;
+}

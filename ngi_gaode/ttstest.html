@@ -1,0 +1,180 @@
+﻿<html>
+<head>
+    <!--<script src="http://192.168.2.21:8081/target/target-script-min.js#anonymous" type="text/javascript">-->
+    <!--</script>-->
+    <!--
+        <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1.0">
+    -->
+    <meta name="viewport" content="width=device-width,user-scalable=yes,height=device-height">
+    <style>
+        .btnLarge{
+            width:260px;
+            height:50px;
+            margin-top:20px;
+            margin-left:10px;
+            display:block;
+            font-size:18px;
+        }
+    </style>
+    <script type="text/javascript">
+        function stringifyArgs(args){
+            var uri = [];
+            var dict = null;
+            var i;
+            for (i = 0; i < args.length; i++) {
+                var arg = args[i];
+                if (arg === undefined || arg === null) {
+                    arg = '';
+                }
+                if (typeof(arg) === 'object') {
+                    dict = arg;
+                } else {
+                    uri.push(encodeURIComponent(arg));
+
+                }
+            }
+            return uri;
+
+        }
+
+        var TTSPlayer= {
+            setAudio:function(params){
+                loadURL("AMTTSPlayer","setStrText",["TTSPlayer.successcb","TTSPlayer.errorcb",params]);
+            },
+            playAudio:function(params){
+                loadURL("AMTTSPlayer","ttsPlay",["TTSPlayer.successcb","TTSPlayer.errorcb",params]);
+            },
+            successcb:function(str){
+                //TODO
+                alert("successful:"+str);
+            },
+            errorcb:function(str){
+                //TODO
+                alert("Failed:"+str);
+            }
+
+        };
+
+        function loadURL(ObjcClass,ObjcFunc,params) {
+            var iFrame;
+            var urlStr = "gap://"+ObjcClass+"/"+ObjcFunc+"/"+stringifyArgs(params);
+
+            iFrame = document.createElement("iframe");
+            iFrame.setAttribute("src", urlStr);
+            iFrame.setAttribute("style", "display:none;");
+            iFrame.setAttribute("height", "0px");
+            iFrame.setAttribute("width", "0px");
+            iFrame.setAttribute("frameborder", "0");
+            document.body.appendChild(iFrame);
+            // 发起请求后这个iFrame就没用了，所以把它从dom上移除掉
+            iFrame.parentNode.removeChild(iFrame);
+            iFrame = null;
+        }
+        //end js for iphone
+        //call this function in NGI project to invoke playing audio
+        function  playTTS(str){
+            if(window.ttstest)
+                window.ttstest.playTTS(str);
+            else
+                TTSPlayer.playAudio(str);
+        }
+
+        //Define object and function  for calling Optimize.forwardmap, this defination is required
+        function LatLng(lat,lon){
+            this.lat =lat;
+            this.lon = lon;
+        }
+        var Optimize = function(){
+        }
+        Optimize.forwardmap = function(latlng){
+			return window.EncryptLatlon.forwardmap(JSON.stringify(latlng));
+        }
+        //zhanglei
+        function updateCoord(lat, lon){
+			if(typeof window.EncryptLatlon != "undefined"){
+				var latlon = new LatLng(lat, lon);
+				var  newlatlon = Optimize.forwardmap(latlon);
+				newlatlon = eval('(' + newlatlon +')');
+				return newlatlon;
+			}
+			else return {'lat':lat,'lon':lon};
+        }
+        //test function
+        //Example Optimize.forwardmap(new LatLng(23.45, 122.3));
+        function testForwardmap(){
+            var latlon = new LatLng(23.45, 122.3);
+            alert("old lat lon:"+ JSON.stringify(latlon));
+            var  newlatlon = Optimize.forwardmap(latlon);
+            alert("new lat lon is :"+newlatlon);
+        }
+
+        //By calling window.MyGPSPosition.getCurrentPosition() to get the current location by GPS,
+        /*The result is as follows:
+         {"coords":{"longitude":116.2992929,"altitude":null,"accuracy":75,"altitudeAccuracy":null,
+         "speed":null,"latitude":39.98131559999999,"heading":null},"timestamp":1338458806015	}
+         */
+        //Example var location = window.MyGPSPosition.getCurrentPosition();
+        function testGPSLocation(){
+            var ret = window.MyGPSPosition.getCurrentPosition();
+            alert("The current GPS location is:  "+ret);
+        }
+
+        //Calling TTSPlayer api
+        //Example:window.ttstest.playTTS("请直行");
+        function testPlayTTS()
+        {
+            var str = "请直行";
+            window.playTTS(str);
+        }
+
+        //Calling save log api
+        //Example:  window.logtest.writeFile("log");
+        function testSaveLog()
+        {
+            var logObj = {};
+            var lat = "31.198983";
+            var lng = "121.476809";
+            var speed = "25.940000";
+            var angel = "341.930000";
+            var pdop = "3.600000";
+            var date = " 10-9-21_12:22:0"
+
+            var str = "lat:"+lat+";"
+                    +"lng:"+lng+";"
+                    +"speed:"+speed+";"
+                    +"angel:"+angel+";"
+                    +"pdop:"+pdop+";"
+                    +"date:"+date+";";
+            var ret= window.logtest.writeFile(str);
+            if(ret==true)
+                alert("write log to SDCard successfully");
+            else
+                alert("Failed to save log to SDCard");
+        }
+    </script>
+</head>
+<body topmargin=0 leftmargin=0>
+<!--
+     <input type = "button" class="btnLarge" value = "Test write log to file" onclick = "testSaveLog()">
+     <input type="button" class="btnLarge" value="Test Forward map" onclick="updateCoord('23.45', '122.3')"/>
+     <input type="button" class="btnLarge" value="Test get current GPS location" onclick="testGPSLocation()"/>
+     <input type="button" class="btnLarge" value="Test TTS Player" onclick="testPlayTTS()"/>
+-->
+<div id = "iframe_div">
+    <Iframe src="start/index.html"
+            id= "pframe"
+            name = "pframe"
+            width= "800px"
+            height= "480px"
+            scrolling= "no"
+            frameborder= "no"
+            border= "10"
+            marginwidth= "0"
+            marginheight= "0"
+
+			>
+    </iframe>
+</div>
+
+</body>
+</html>

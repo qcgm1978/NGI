@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<input type='button' value='button' onclick="showInfo();">
+<script src="../../../javascript/jquery-1.8.2.js"></script>
+<script src='../../../javascript/zinherit.js'></script>
+<!--<iframe src='innerHTML.html' width="800px" height="480px"></iframe>-->
+<script type="text/javascript">
+    function Ancestor1() {
+        this.prop = 'ancestor1';
+        this.propAnce1 = 'ance1';
+        Ancestor1.prototype.outputAnce1 = function () {
+            console.log('ancestor1');
+        };
+    }
+
+    function Descendant() {
+        Ancestor1.call(this);
+        Ancestor2.call(this);
+        inheritProtoMethod.call(this, Ancestor2);
+        inheritProtoMethod.call(this, Ancestor1);
+        this.prop = 'descendant';
+    }
+    Descendant.prototype.output = function () {
+        console.log(this.prop);
+    };
+
+    function Ancestor2() {
+        this.prop = 'ancestor2';
+        Ancestor2.prototype = {
+            methodObj:{
+                outputAnce2:function () {
+                    console.log('ancestor2');
+                }
+            },
+            output:function () {
+                console.log('output the value by instance method of ancestor2');
+            },
+            propAncesotr2:'instance prop of Ancestor2'
+        };
+    }
+
+    function inheritProtoMethod(classAncestor) {
+        if (classAncestor._init) {
+            return;
+        }
+        function copyProtoMethod(obj) {
+            for (var prop in obj) {
+                var funcAncestor = obj[prop];
+                if (typeof this.__proto__[prop] != 'undefined') {
+                    continue;
+                }
+                if (typeof funcAncestor == 'object') {
+                     arguments.callee(funcAncestor);
+                }
+                this.__proto__[prop] = funcAncestor;
+            }
+        }
+
+        copyProtoMethod.call(this,classAncestor.prototype);
+        classAncestor._init = true;
+    }
+    $('input').click(function () {
+        instance = new Descendant();
+        instance.output();
+        instance.outputAnce1();
+        instance.outputAnce2();
+    }).click();
+
+
+    function ClassX() {
+        this.messageX = "This is the X message. ";
+
+
+        if (typeof ClassX._initialized == "undefined") {
+            ClassX.prototype.sayMessageX = function () {
+                alert(this.messageX);
+            };
+            ClassX._initialized = true;
+        }
+    }
+
+    function ClassY() {
+        this.messageY = "This is the Y message. ";
+
+        if (typeof ClassY._initialized == "undefined") {
+            ClassY.prototype.sayMessageY = function () {
+                alert(this.messageY);
+            };
+            ClassY._initialized = true;
+        }
+
+    }
+
+    function ClassZ() {
+
+
+        ClassX.apply(this); //这里写作ClassX.call(this);也是一样的
+        ClassY.apply(this);
+        this.messageZ = "This is the Z message. ";
+
+        if (typeof ClassZ._initialized == "undefined") {
+            ClassZ.prototype.inheritFrom(ClassX);
+            ClassZ.prototype.inheritFrom(ClassY);
+
+            ClassZ.prototype.sayMessageZ = function () {
+                alert(this.messageZ);
+            };
+
+            ClassZ._initialized = true;
+        }
+
+    }
+
+    function showInfo() {
+        var objz = new ClassZ();
+        objz.sayMessageX();
+        objz.sayMessageY();
+        objz.sayMessageZ();
+
+    }
+
+
+    var mediator = (function () {
+        var subscribe = function (channel, fn) {
+                    if (!mediator.channels[channel]) {
+                        mediator.channels[channel] = [];
+                    }
+                    mediator.channels[channel].push({ context:this, callback:fn });
+                    return this;
+                },
+
+                publish = function (channel) {
+                    if (!mediator.channels[channel]) {
+                        return false;
+                    }
+                    var args = Array.prototype.slice.call(arguments, 1);
+                    for (var i = 0, l = mediator.channels[channel].length; i < l; i++) {
+                        var subscription = mediator.channels[channel][i];
+                        subscription.callback.apply(subscription.context, args);
+                    }
+                    return this;
+                };
+
+        return {
+            channels:{},
+            publish:publish,
+            subscribe:subscribe,
+            installTo:function (obj) {
+                obj.subscribe = subscribe;
+                obj.publish = publish;
+            }
+        };
+
+    }());
+    //Pub/sub on a centralized mediator
+
+    //    mediator.name = "tim";
+    //    mediator.data = 'search result data';
+    //    mediator.initMediator().subscribe('nameChange', function () {
+    ////        this.name = arg;
+    //        console.log('a');
+    //        $('iframe').attr('src', 'innerHTML.html');
+    //                .load({name:this.name}, function (e) {
+    ////                    $(this).contents().find('h1').text(e.data.name);
+    //                    frames[0].changeH1(e.data.name);
+    //                });
+    //                 alert(this.name);
+    //    });
+
+    //        mediator.publish('nameChange', 'david'); //tim, david
+    //             mediator.publish('nameChange', 'kobe'); //tim, david
+
+    //Pub/sub via third party mediator
+
+    //             var obj = { name: 'sam' };
+    //             mediator.installTo(obj);
+    //             obj.subscribe('nameChange', function(arg){
+    //                 console.log(this.name);
+    //                 this.name = arg;
+    //                 console.log(this.name);
+    //             });
+
+    //             obj.publish('nameChange', 'john'); //sam, john
+</script>
+</body>
+</html>

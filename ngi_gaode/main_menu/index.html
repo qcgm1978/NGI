@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="author" content="SitePoint">
+    <link rel="stylesheet" href='../css/base.css'>
+    <link rel="stylesheet" href='../css/common.css'>
+    <style type="text/css">
+        table {
+            margin-left: 12px;
+        }
+
+            /*需设置article高度，各页面根据背景图宽度不同*/
+    </style>
+    <script type="text/javascript" src="../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+<div class="w800 h480 bc vc pr">
+    <header class="h60">
+        <h1 class="fl fc f34 fb fw h1_w">
+            主菜单
+        </h1>
+        <a href="javascript:void(0)"><img src="../images/back.png" width="113" height="43" alt="返回按钮"
+                                          class='fr mt10 mr8'></a>
+    </header>
+    <!--  主题内容 -->
+    <article class="p4">
+        <table width="100%" class="mt10">
+            <colgroup>
+                <col>
+                <col style="">
+            </colgroup>
+            <tr>
+                <td><a href="javascript:void(0)"><img src="images/destination_search_menu.png" width="175" height="150"
+                                                      alt="目的地检索"></a></td>
+                <td><a href="javascript:void(0)"><img src="images/route_option_gray.png" width="175" height="150"
+                                                      alt="路径选项"></a></td>
+                <td><a href="javascript:void(0)"><img src="images/tmc.png" width="175" height="150" alt="动态交通"></a></td>
+                <td><a href="javascript:void(0)"><img src="images/system.png" width="175" height="150" alt="系统设定"></a>
+                </td>
+            </tr>
+            <tr>
+                <td><a href="javascript:void(0)"><img src="images/favorite.png" width="175" height="150" alt="收藏夹"></a>
+                </td>
+                <td><a href="javascript:void(0)"><img src="images/other.png" width="175" height="150" alt="辅助功能"></a>
+                </td>
+                <td><!--<a href="shell/index.html">--><img src="images/back_homepage.png" width="175" height="150"
+                                                           alt="返回主页"><!--</a>--></td>
+                <td><img src="images/exit.png" width="175" height="150" alt="退出程序"></td>
+            </tr>
+        </table>
+    </article>
+    <footer class='tc mt30'><a href="javascript:void(0)"><img src="../images/back_to_map.png" alt="返回地图按钮"
+                                                              name="return_map" width="153" height="53" id="return_map"></a>
+    </footer>
+</div>
+<!--退出程序弹出框结束}-->
+<!--<aside id="result" style="text-align:left;"></aside>-->
+<script src="../javascript/jquery-1.8.2.js"></script>
+<script src="../javascript/constant.js"></script>
+<script src="../javascript/common.js"></script>
+<script src="../javascript/layer.js"></script>
+<script type="text/javascript">
+    $(function () {
+        //设置路径选项是否正常显示和点击
+        //如果进行了路径规划
+        if (JSON.parse(localStorage['tbt_state'])) {
+            $('img[alt="路径选项"]')
+                        .attr('src', function(index,val){
+                        var src = val, str = '';
+                        str = src.replace(/_gray/, '');
+                        return str;
+                    })
+                    .click(function () {
+                        parent.window.GLOBAL.Event.NGIStateManager.goToNextState(GLOBAL.Constant.NGIStates.PathOptions, parent.window.GLOBAL.Event.NavScreenEvent.showNextInterfaceScreen, {nextPage:'path/index.html'});
+                    });
+        }
+        else {
+            //解除灰色按钮图片绑定事件
+            $('img[alt="路径选项"]')
+                    .off()
+                    .css('cursor', 'default');
+        }
+        //退出程序按钮事件
+        $('img[alt="退出程序"]').click(function () {
+            var config = {
+                id:"prompt_box",
+                msg:GLOBAL.Constant.prompt_exitProgram
+            };
+            GLOBAL.layer.createNew(config).show();
+        });
+        //绑定搜索类型图标点击事件
+        var parentglobal = parent.window.GLOBAL
+        var altStr = {
+            '目的地检索': {nextState:parentglobal.Constant.NGIStates.PoiSearchByKeyword,transitionCallbacks:parentglobal.Event.NavScreenEvent.showNextInterfaceScreen, options:{nextPage:'destn/index.html'}},
+            '动态交通':{nextState: parentglobal.Constant.NGIStates.TrafficInfo, transitionCallbacks:parentglobal.Event.NavScreenEvent.showNextInterfaceScreen, options:{nextPage:'traffic/index.html'}},
+            '系统设定': {nextState:parentglobal.Constant.NGIStates.SystemSettings, transitionCallbacks:parentglobal.Event.NavScreenEvent.showNextInterfaceScreen, options:{nextPage:'system/index.html'}},
+            '收藏夹': {nextState:parentglobal.Constant.NGIStates.Favorites, transitionCallbacks:parentglobal.Event.NavScreenEvent.showNextInterfaceScreen, options:{nextPage:'favorite/index.html'}},
+            '辅助功能':{nextState:parentglobal.Constant.NGIStates.AuxiliaryFuncs, transitionCallbacks:parentglobal.Event.NavScreenEvent.showNextInterfaceScreen, options:{nextPage:'assist/index.html'}}
+        }
+        $('img[alt!="路径选项"]:not(:last)').click(function () {
+            var alt = $(this).attr('alt');
+            if(altStr[alt] !==undefined)
+            parentglobal.Event.NGIStateManager.goToNextState(altStr[alt].nextState,altStr[alt].transitionCallbacks,altStr[alt].options);
+        });
+    });
+</script>
+<script src="../javascript/tab.js"></script>
+</body>
+</html>

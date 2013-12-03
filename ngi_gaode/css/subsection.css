@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+div{background-image:url(../images/bg01.png);}
+table{margin-left: 12px;}
+#btn_toggle{display:none;}
+/*需设置article高度，各页面根据背景图宽度不同*/
+article{ height:380px; overflow:auto;}
+/*表格部分*/
+#action{background-image:url(../navigate/images/images/btn_10.png); background-repeat:no-repeat; width:53px; height:100%; text-align:center;
+/*设置背景图片沿内容区域剪裁，使其不在顶部平铺*/
+padding-top: 6px;
+background-clip: content-box;
+background-position:0 6px;
+/*缩放背景图片，覆盖背景区域*/
+background-size:cover;
+}
+#action img{/*margin-bottom:4px;*/ /*margin-left:5px;*/}
+#action:first-child {
+padding-top: 6px;
+}
+td{color:#24305d; font-size:24px; font-weight:bold;}
+#current_car {
+/*margin-left: 5px;*/
+}
+.long_bg { background-image:url(../navigate/images/subsection_images/btn_09.png); width:493px; height:49px;}
+.short_bg{background-image:url(../navigate/images/subsection_images/btn06.png); width:153px; height:49px;}
+.long_bg, .short_bg{padding-left: 30px;
+padding-top: 6px;
+background-repeat: no-repeat;
+background-position:10px 6px;}

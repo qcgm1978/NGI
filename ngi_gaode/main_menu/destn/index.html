@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<meta name="description" content="">
+<meta name="author" content="SitePoint">
+<link rel="stylesheet" href='../../css/base.css'>
+<link rel="stylesheet" href='../../css/common.css'>
+<link rel="stylesheet" href='../../css/jquery-ui-1.8.23.custom.css'>
+<link rel="stylesheet" href='css/style.css'>
+    <script type="text/javascript" src="../../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+	<div class="w800 h480 bc vc pr">
+		<header class="h60">
+			<h1 class="fl fc f34 fb fw">目的地检索</h1>
+			<img src="../../images/back.png"
+				width="113" height="43" alt="返回按钮" class='fr mt10 mr8'>
+			<!--<button class='fr'>返回</button>-->
+		</header>
+		<!--  主题内容 -->
+		<article class="p4">
+			<form
+				style="background-image: url(images/images/bg02.png); background-repeat: no-repeat; line-height: 60px;"
+				class="h60 cb">
+				<input type="button" value="上海市" id="region"
+					style="background-image: url(images/images/bg03.png); width: 315px; height: 41px;"
+					class=" fc_top f24 fb  ml5 vm">
+				<!--  pattern属性的值必须匹配完整的字符串 -->
+
+				<input type='search' required autocomplete autofocus
+					placeholder="请输入检索关键字" id="keyword" pattern=".*\S+.*"
+					style="background-image: url(images/images/bg04.png); width: 315px; height: 41px;background-color: transparent;filter:alpha(opacity=50);"
+					class="f24 fb vm ml5 fc_td" x-webkit-speech speech="speech">
+
+				<!--<input type="text" name="q" id="search-kw" autocomplete="off" x-webkit-speech />-->
+
+
+				<input type="submit" value="" id="search_poi"
+					style="background-image: url(images/images/retrieval.png); width: 110px; height: 41px;"
+					class="vm ml5">
+			</form>
+			<table width="100%" class="mt10">
+                <colgroup>
+                    <col>
+                    <col style="">
+                </colgroup>
+			</table>
+            <!--无检索历史记录提示-->
+            <div id="div_no_history" class="fw tc f24 mt10" style="display: none">无检索历史记录</div>
+
+			<footer class="tc mt5">
+				<img src="../../images/back_to_map.png" width="153"
+					height="53" alt="返回地图按钮" id="return_map">
+			</footer>
+		</article>		
+
+	</div>
+	<script src="../../javascript/jquery-1.8.2.js"></script>
+    <script src="../../javascript/constant.js"></script>
+	<script src="../../javascript/common.js"></script>
+    <script src="../../javascript/tab.js"></script>
+    <script src="../../javascript/layer.js"></script>
+    <script src="../../javascript/jquery-ui-1.8.23.custom.min.js"></script>
+	<script type="text/javascript" src="js/POISearch.js"></script>
+</body>
+</html>

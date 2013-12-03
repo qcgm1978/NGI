@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+div{background-image:url(../images/bg01.png);}
+table{margin-left: 12px;}
+#btn_toggle{display:none;}
+/*需设置article高度，各页面根据背景图宽度不同*/
+article{}
+#target{background-image:url(../main_menu/traffic/images/text_input02.png); width:315px; height:41px; margin-left:20px;line-height: 40px;
+font-size: 24px;
+color: #24305d;
+font-weight: bold;
+/*padding-left: 10px;*/
+background-repeat: no-repeat; text-align:center;}
+article header{background-image:url(../main_menu/traffic/images/bg02.png); width:793px; height:64px;}
+article section{background-image:url(../main_menu/traffic/images/route_bg.png); width:763px; height:244px; background-repeat:no-repeat; margin-left:16px; margin-top:30px;}
+#light_cross{width: 679px;
+height: 39px;
+overflow: hidden;
+position: relative;
+top: 86px;
+left: 41px;
+    border: solid 1px #738E99;background-image: url(../main_menu/traffic/images/grey.png);     }
+#light_cross img {
+    float: left;
+    height: 40px;
+    display: block;
+}
+
+dl{color:#24305d; font-size:24px; font-weight:bold; color: #24305d;
+font-size: 24px;
+font-weight: bold;position: absolute;
+top: 256px;
+left: 193px;}
+dt{display: inline-block;
+width: 355px;}
+dd{display: inline-block;}
+#currentPath{position: absolute;
+    top: 247px;
+    left: 61px;}

@@ -1,0 +1,149 @@
+#map{margin: 0 auto; position:relative;overflow: hidden;
+}
+  #container{margin: 0 auto; position:relative; width:800px; height:480px; top:-480px;}
+  #navi_menu_warp{position: absolute; top:405px;z-index: 999; height:80px;width:800px;}
+  #navi_menu_warp_left{position: absolute; top:405px;left:0;z-index: 999; height:80px;width:152px;display:none;}
+  #navi_menu_warp_right{position: absolute; top:405px;right:0;z-index: 999; height:80px;width:152px;display:none;}
+  .navi_menu{position: absolute; top:405px;z-index: 999; height:80px;}
+   .navi_menu img{margin-left:7px;}
+   .navi_menu time{
+font-size: 26px;
+font-weight: bold;
+line-height:76px;
+margin-right: 10px;
+}
+#time_right span{
+    font-size: 26px;
+    font-weight: bold;
+    line-height:76px;
+    margin-right: 10px;
+}
+#zoom_out{margin-left: 7px;}
+.navi_menu:nth-of-type(1){left:0
+}
+.navi_menu:nth-of-type(2){left:139px}
+.navi_menu:nth-of-type(3){left:647px;}
+.navi_menu_pullback_left{
+	background:url(../navigate/images/images/panel03_1.png) no-repeat;	
+}
+.navi_menu_pullback_right{
+	background:url(../navigate/images/images/panel03_2.png) no-repeat;	
+}
+.navi_menu_expand{
+	background:url(../navigate/images/images/panel02.png) no-repeat;
+}
+#search{margin-top:22px;}
+#multi_pos_alert{width:300px; text-align:center; display:none;}
+/*#current_time{background-image:url(../images_pres/panel_tmc02.png); background-repeat:no-repeat; width:69px; height:39px; padding-top:17px;}*/
+/*#reach{width:69px; height:69px; background-image:url(../images_pres/panel_arrivetime.png);}*/
+/*右侧元素*/
+#right{position: absolute; left: 679px;  z-index: 101; text-align:center; width:78px; top:5px; }
+#right figcaption{font-size:28px;}
+.mt_5{margin-top:-5px;}
+#bg_light_cross{ background-image:url(../navigate/images/images/dynamic_bar_2km.png); width:73px; height:189px; left:40px; margin-top:1px;}
+#light_container{width: 20px;
+height: 130px;
+position: relative;
+top: 28px;
+left: 26px; overflow:hidden;}
+#light_bar{width: 20px;
+height: 130px;position:relative; background-image: url(../navigate/images/images/bg_grey.png); background-repeat:repeat;}
+#light_bar blockquote{width:20px; display:block;}
+#gps{position: absolute;top: 5px;z-index: 101; text-align:center; left:0px; }
+#gps ul:first-child {
+height: 186px;
+}
+.bg_top{background-image:url(../navigate/images/images/panel05.png); background-repeat:no-repeat; width:113px; height:124px; }
+#traffic_panel_toggle{vertical-align:middle;}
+#shortcut{ position:absolute; top:340px; right:0; z-index:101;}
+#shortcut ul{ height: 63px; background-repeat: no-repeat; }
+#shortcut ul li{float:left;}
+#four_s,  #traffic_panel_toggle{display:none;  padding-left:7px;padding-top:5px;}
+/*{--下部收缩菜单部分开始*/
+#menu_extend{}
+#subsection{position: absolute;top: 10px;left: 80px;width:350px; display:none;}
+/*下部收缩菜单部分结束*/
+/*#shortcut li{display:inline;}*/
+#scale strong{font-weight:bold;}
+#name{
+    position: absolute;
+    top: 5px;
+    z-index: 101;
+    left: 159px;
+	/*text-align:center;*/
+}
+#gpsNaviCurrRoad{}
+#name input{text-align:center;  background-image:url(../navigate/images/images/panel04.png); border:0;width: 483px;height: 54px;opacity: 0.8;background-color:transparent; display:block;/*position: absolute;*//*position: relative;
+left: -70px;*/}
+#gprs{margin-top:1px; height:64px; width:112px;}
+#current_pos{position: absolute;
+left: 15px;
+bottom: 14px; text-align: center;
+line-height: 49px;
+background-image: url(../navigate/images/images/panel04.png); background-repeat:no-repeat;
+color: #e5f2ff;
+font-weight: bold;
+font-size: 24px;width:493px; height:49px;}
+#mark{position: absolute;
+top: 352px;
+z-index: 101;}
+#mark span{display:inline-block; width:38px; height:39px; background:url(../navigate/images/images/road_info_bg.png) no-repeat;margin-left: 2px;}
+/*#mark span:nth-child(1){background:url(../navigate/images/images/road_info_left.png) no-repeat; width:41px;}
+#mark span:last-child{background:url(../navigate/images/images/road_info_right.png) no-repeat;width:40px;}*/
+/* 如果只有一个车道图标，背景图不显示 */
+/*#mark span:only-child{background-image:none;} 手机上会导致所有的第一个车道图标背景没有*/
+#addload{ position: absolute;
+z-index: 101;
+left: 350px;
+top: 190px;}
+/*当前地图中心覆盖物元素*/
+#center{position: absolute;
+left: 362px;
+z-index: 101;
+top: 168px;}
+#center figcaption{position: relative;
+left: 60px;font-size: 28px;
+font-weight: bold;color: #1a1a1a; height:32px;top: 0;}
+#crossCursor{display:block;}
+/*到达时间元素，左侧left元素内*/
+#reach_time{background-image:url(../navigate/images/images/bg_target.png); width:113px; height:79px; margin-top:1px; text-align:center;font-weight: bolder;padding-top: 45px;}
+#reach_time figcaption{ font-size:28px; color:#1a1a1a;}
+#reach_time time{font-size:30px;color:#1a1a1a;}
+/*导航部分*/
+#simulator{position: absolute;top: 10px;left: 80px;width:490px; display:none;}
+.overLayer{position:absolute; top:0; left:0; height:100%; width:100%;}
+.bg_light img{
+    display: block;width: 20px;
+}
+#roadCrossPanel{
+    position:absolute;
+    top:0;
+    right:0;
+    width:300px;
+    height:333px;
+    border: 1px solid #13374d;
+    z-index: 150;
+}
+#roadCrossPanel .roadName{
+    margin:0;
+    height:33px;
+    font-size: 20px;
+    font-family:方正粗圆简;
+    color:#fff;
+    text-align: center;
+    line-height: 33px;
+    background-image: url(../navigate/images/images/roadCross/kdt_roadname_bg.png);
+}
+#roadCrossPanel .crossImage{
+    position:absolute;
+    top:33px;
+    left:0px;
+}
+#roadCrossPanel .distanceFromCross{
+    position: absolute;
+    bottom:0;
+    left:1px;
+    width:27px;
+    height:183px;
+    background-image: url(../navigate/images/images/roadCross/0-300.png);
+}

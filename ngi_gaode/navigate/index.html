@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>驾车导航</title>
+    <meta name="description" content="Vehicle Navigation">
+    <meta name="author" content="SitePoint">
+    <!--<link rel="stylesheet" href='../css/import_css.css'>-->
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/navigate.css">
+    <link rel="stylesheet" href='../css/common.css'>
+    <link rel="stylesheet" href="../css/light_page.css">
+    <script type="text/javascript" src="../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+<section id="voice" class="none">
+    <!--<video autoplay name="media" width="0" height="0" src="http://translate.google.cn/translate_tts?tl=ch&amp;q="></video>-->
+</section>
+<!--提示路线下载失败弹出框结束}-->
+<div id="map" class="w800 h480">
+    <div id="mmap" class="w800 h480"></div>
+    <!--显示自车位置名称、下一条道路、光标或兴趣点结果名称-->
+    <header class="tc fb none" id="name">
+        <input id="gpsNaviCurrRoad" type="text" size="10" readonly class="fc f34"/>
+        <input id="emulatorNaviCurrRoad" type="text" size="10" readonly class="fc f34 none"/>
+        <input id="poi_current" type="text" size="10" readonly class="fc f34 none"/>
+    </header>
+    <!-- GPS、实时交通等信息开始{-->
+    <section id="gps">
+        <ul>
+            <li class="bg_top">
+                <ul>
+                    <!--如果地图支持旋转，点击指南针就可以进行北向上和车头向上的地图方位切换，暂时地图不能旋转，所以始终向北即可-->
+                    <img id="compass" src="images/images/compass.png" width="63" height="63" alt="指南针" class="mt5">
+                    <li id="scale" class="Clearfix"><strong></strong></li>
+                    <li id="satellite" class="Clearfix"><img src="images/images/gps_0.png" width="80" height="18"
+                                                             alt="GPS卫星数量"></li>
+                </ul>
+            </li>
+            <!--路径规划后，显示该li元素，显示时间，隐藏下一个li元素-->
+            <!--<li id="current_time" class="tc Clearfix"><time></time></li>-->
+            <!--GPRS有连接后，背景图片替换为有连接的图片-->
+            <li id="gprs"><img src="images/images/gprs02.png" width="113" height="64" alt="GPRS未连接">
+            </li>
+            <li class="hidden" id="reach_time">
+                <figure class="bc vc">
+                    <figcaption id="routeRemainDis"><!--剩余路程--></figcaption>
+                    <time id="routeRemainTime"><!--到达时间--></time>
+                </figure>
+            </li>
+            <li id="search"><img src="images/images/destination_search.png" width="113" height="63" alt="查找按钮">
+                <img src="images/images/details.png" width="113" height="63" alt="详细按钮" class="none" id="details"></li>
+        </ul>
+    </section>
+    <!-- }GPS、实时交通等信息结束-->
+    <!-- 右侧动态交通、声音设置等区域开始{ -->
+    <section id="right">
+        <ul>
+            <li class="Clearfix bg_top none">
+                <a href="javascript:void(0)" class="no_unl">
+                    <!--导航中距离是不断变化的转折的箭头当走过这个点后变成下一个转折点-->
+                    <figure class="bc vc pr">
+                        <img src="images/images/direct_turn_right.png" width="110" height="90" alt="路程图标">
+                        <figcaption class="fc fb mt_5" id="remain_distance"></figcaption>
+                        <div class="overLayer"></div>
+                    </figure>
+                </a></li>
+            <!--主页链接到SHELL界面，未提供接口-->
+            <a href="javascript:void(0)" style=" position:relative;">
+                <li class="Clearfix pr none" id="bg_light_cross">
+                    <div id='light_container'>
+                        <p id="light_bar" class="bg_light"></p>
+                    </div>
+                    <div class='overLayer'></div>
+                </li>
+            </a>
+        </ul>
+    </section>
+    <!-- 快捷菜单开始{ -->
+    <section id="shortcut" class="Clearfix">
+        <ul>
+            <li id="four_s"><img src='images/images/4s.png' width="60" height="52" alt="通用维修"></li>
+            <li id='traffic_panel_toggle'><img src="images/images/bubble_enable.png" width="60" height="52" alt="关闭情报板"
+                                               bChangeIcon="false"></li>
+            <li id="menu_extend"><img src="images/images/volume_bar_open.png" width="71" height="63" alt="展开按钮"></li>
+        </ul>
+    </section>
+    <!-- }快捷菜单结束 -->
+    <!-- }右侧动态交通、声音设置等区域结束 -->
+    <!-- 设终点提示框开始{ -->
+    <aside id="multi_pos_alert">
+        <header>
+            <h2>当前点在...(changed automatically)附近，已有多个目的地，请选择如何到达它们？</h2>
+        </header>
+        <ol>
+            <li><input type="button" value="只到最后选择的" id="draw_again"></li>
+            <li><input type="button" value="途经地" id="via"></li>
+            <li><input type="button" value="追加" id="append_path"></li>
+            <li><input type="button" value="关闭" id='close_multi_alert'></li>
+        </ol>
+    </aside>
+    <!-- }设终点提示框结束 -->
+    <!-- 导航栏开始 -->
+    <div id="navi_menu_warp" class="navi_menu_expand"></div>
+    <div id="navi_menu_warp_left" class="navi_menu_pullback_left"></div>
+    <div id="navi_menu_warp_right" class="navi_menu_pullback_right"></div>
+    <ul class="navi_menu">
+        <li id="pull_back_btn" class="fl mt10"><img src="images/images/menu_close.png" width="60" height="60"
+                                                    alt="收缩按钮"></li>
+        <li id="zoom_out" class="fl mt10"><img src="images/images/scale_down.png" width="63" height="64" alt="缩小按钮">
+        </li>
+    </ul>
+    <ul class="navi_menu">
+        <li class="fl mt10"><img src="images/images/main_menu.png" width="163" height="64" alt="主菜单按钮" id="menu_first">
+        </li>
+        <li class="fl mt10"><img src="images/images/around_search.png" width="163" height="64" alt="周边查询按钮" id="rim">
+        </li>
+        <li class="fl mt10"><img src="images/images/favorites.png" width="163" height="64" alt="收藏按钮" id="add_favor">
+        </li>
+        <li id="current_pos" class="fl mt10 none"></li>
+        <li id="assist" class="fl mt10">
+            <section id="simulator">
+                <img src="images/images/end_navi.png" width="163" height="64" alt="停止模拟">
+                <img src="images/images/high_speed.png" width="163" height="64" alt="模拟速度">
+            </section>
+            <section id="subsection" class="none">
+                <img src="images/images/previous.png" width="163" height="64" alt="上一条">
+                <img src="images/images/next.png" width="163" height="64" alt="下一条">
+            </section>
+        </li>
+    </ul>
+    <ul class="navi_menu">
+        <li id="zoom_in" class="fl mt10"><img src="images/images/scale_up.png" width="63" height="64" alt="放大按钮"></li>
+        <li id="time_right" class="fl">
+            <time class="fc_top"></time>
+        </li>
+    </ul>
+    <!-- 导航栏结束} -->
+    <!--方位mark开始{-->
+    <footer id="mark" class="none">
+        <!--<img src="images/images/road_info_left_1.png" width="35" height="36" alt="左转mark">
+    <img src="images/images/road_info_turn_round.png" width="35" height="36" alt="左后转弯mark">
+    <img src="images/images/road_info_go_straight.png" width="35" height="36" alt="向前直行mark">
+    <img src="images/images/road_info_rightarrow.png" width="35" height="36" alt="右转mark">-->
+    </footer>
+    <!--方位mark结束}-->
+    <!--当前地图中心覆盖物图片-->
+    <figure id="center" class="none">
+        <figcaption></figcaption>
+        <!--<img src="images/images/car.png" width="77" height="78" alt="自车位置图标" class="none" >-->
+        <img src="images/images/position.png" width="77" height="78" alt="目的地位置图标" id='crossCursor'>
+    </figure>
+</div>
+
+<!-- {--原来的双光柱页面html开始 -->
+<section id="light_cross_html" class="none">
+    <div class="w800 h480 bc vc"
+         style="background-image:url(images/images/bg_path_chose.png); background-repeat:no-repeat;">
+        <header class="h60">
+            <h1 class="fl fc f34 fb fw h1_w">
+                路线选择
+            </h1>
+            <a href="javascript:void(0)"><strong class=" mt10 none" id="input_first"></strong></a>
+            <a href="javascript:void(0)"> <img src="../images/back.png" width="113" height="43" alt="返回按钮"
+                                               class='fr mt10 mr8' id='ret'></a>
+        </header>
+        <!--  主题内容 -->
+        <article class="p4 box ml10 pr" >
+            <div id="mapFoo" style="width:660px;width:650px\9; height:327px;float:left;"></div>
+            <mark id="scale_light_cross" style="top: 13px\9;">
+                <img src="images/images/compass_gray.png" width="63" height="63" alt="指南针">
+                <strong></strong>
+            </mark>
+            <aside id="right_nav">
+                <figure data="rapid" id="fastLine">
+                    <figcaption>
+                        <img style="margin-top: 10px;" src="images/images/road01.png" width="37" height="37" alt="快速路线"></figcaption>
+                    <p id="rapid" class="bg_light"></p>
+                </figure>
+                <figure data="normal" id="normalLine">
+                    <figcaption><img style="margin-top: 10px;" src="images/images/road02.png" width="37" height="37" alt="常规路线"></figcaption>
+                    <p id="normal" class="bg_light"></p>
+                </figure>
+            </aside>
+            <img src="images/images/scale_up02.png" width="83" height="84" alt="放大按钮" id="zoom_in_light_cross">
+            <img src="images/images/scale_down02.png" width="83" height="84" alt="缩小按钮" id="zoom_out_light_cross">
+        </article>
+        <!--下部区域开始{-->
+        <nav class='pt10 box box_c ml10'>
+            <section style="display: inline-block\9;" class="box " data='rapid' id="fastSection">
+                <header class="box mt10 ml10"><img src="images/images/radio02_on.png" width="23" height="23" alt="单选按钮"
+                                                   class="Jradio"><img
+                        src="images/images/fast_road.png" width="66" height="16" alt="快速线路" class="mb6 ml10"></header>
+                <dl class="box ">
+                    <dt style="display: inline-block"><img src="images/images/mileage.png" width="52" height="12" alt="行驶里程"></dt>
+                    <dd style="display: inline-block" class="f24 fb"><span id="TMCRouteDis" class="route-detail-font"></span></dd>
+                    <dt style="display: inline-block"><img src="images/images/times.png" width="52" height="12" alt="预计用时" class="ml30"></dt>
+                    <dd style="display: inline-block" class="f24 fb"><span id="TMCRouteTime" class="route-detail-font"></span></dd>
+                </dl>
+            </section>
+            <section style="display: inline-block\9;" class="box ml10" data="normal" id="normalSection">
+                <header class="box mt10 ml10"><img src="images/images/radio02.png" width="23" height="23"
+                                                   alt="单选按钮" class="Jradio"><img src="images/images/common_road.png"
+                                                                                  width="65"
+                                                                                  height="16" alt="常规线路"
+                                                                                  class="mb6 ml10"></header>
+                <dl class="box ">
+                    <dt style="display: inline-block"><img src="images/images/mileage.png" width="52" height="12" alt="行驶里程"></dt>
+                    <dd style="display: inline-block" class="f24 fb"><span id="normalRouteDis" class="route-detail-font"></span></dd>
+                    <dt style="display: inline-block"><img src="images/images/times.png" width="52" height="12" alt="预计用时" class="ml30"></dt>
+                    <dd style="display: inline-block" class="f24 fb"><span id="normalRouteTime" class="route-detail-font"></span></dd>
+                </dl>
+            </section>
+            <a class="box" href="javascript:void(0)"><img src="images/images/btn_navi.png" width="118" height="53"
+                                                          alt="导航按钮"
+                                                          class="ml10" style="margin-left: 0px\9;" id='nav'></a>
+        </nav>
+        <!--下部区域结束}-->
+    </div>
+
+</section>
+<!-- 原来的双光柱页面html结束--} -->
+<section id="roadCrossPanel" class="none">
+    <h1 class="roadName">苏州街</h1>
+
+    <div class="distanceFromCross"></div>
+</section>
+<!--嵌入iframe，方便主界面访问-->
+<div id="iframeDiv" class="w800 h480 none" style="background-image:url(../images/bg01.png)"></div>
+<!--嵌入交通信息情报板图片-->
+<div id="traffic_panel_container" class="w800 h480 none"
+     style="background-image:url(../images/bg01.png); margin: 0 auto; z-index: 1001; position:relative;top:-480px;">
+    <h1 class="fl fc f34 fb fw h1_w">
+        情报板
+    </h1>
+    <img id="btn_close_message_panel" src="../images/back.png" width="113" height="43" alt="返回按钮" class='fr mt10 mr8'>
+    <img id="message_panel" src="" width="800" height="420" alt="情报板" style="margin: 8px 0 0 0;">
+</div>
+<!--所有标签结束}-->
+<!-- js文件调用的顺序不能轻易更改，它们之间存在调用关系，先调用的文件如果未加载，可能导致后面的文件出错 -->
+<script src="js/GPSLog.js"></script>
+<script src='../javascript/jquery-1.8.2.js'></script>
+<script src='../javascript/modernizr.js'></script>
+<!--<script src="../javascript/jquery-1.7.1-min.js"></script>-->
+<script src="../javascript/constant.js"></script>
+<script src="../javascript/common.js"></script>
+<script src="../javascript/tab.js"></script>
+<script src="../javascript/layer.js"></script>
+<script src="../javascript/StateManager.js"></script>
+<script src="http://apiv3.test.mapabc.com/map.js?key=f9bc6d756c9176716881e278638e0bb8f5bd78ddeb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f"></script>
+<script src="js/init_local.js"></script>
+<script src='js/jquery.rotate.js'></script>
+<script src='js/webroute.js'></script>
+<script src='js/tbt.js'></script>
+<script src='js/GPSLog.js'></script>
+<script src="js/event.js"></script>
+<script src="js/trafficMessageData.js"></script>
+<script src="js/trafficMessagePanel.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/IframeClass.js"></script>
+<script src="js/UiManager.js"></script>
+<script src="../javascript/BusinessManager.js"></script>
+<script src="../main_menu/favorite/js/favoriteServiceLocal.js"></script>
+<script src="../javascript/PoiSDK.min.js"></script>
+<script src="../main_menu/destn/js/classes.js"></script>
+<script src="../javascript/PoiPageServiceClass.js"></script>
+<script src="../javascript/PoiSearchClass.js"></script>
+<script src="../javascript/test.js"></script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title></title>
+<meta name="description" content="">
+<meta name="author" content="SitePoint">
+<link rel="stylesheet" href='../../css/base.css'>
+<link rel="stylesheet" href='../../css/common.css'>
+<style type="text/css">
+
+#input_first{width:107px; height:43px; background-image:url(../../images/definitive02.png);}
+strong{display:inline-block;}
+div{background-image:url(../../images/bg01.png);}
+table{margin-left: 12px;}
+#btn_toggle{display:none;}
+/*需设置article高度，各页面根据背景图宽度不同*/
+article{ height:310px;margin-left: 12px;
+margin-top: 30px;color:#ffffff; font-size:28px; font-weight:bold;}
+section:nth-child(1){background-image:url(images/earth.png); width:303px; height:307px; background-repeat: no-repeat;}
+section:nth-child(2){background-image:url(images/data_bg.png); width:433px; height:304px;margin-left: 20px;background-repeat:no-repeat;}
+table tr:nth-child(1) td{padding-top:55px;width: 33%;}
+table tr:nth-child(2) td{padding-top:65px;width: 33%;}
+table tr:nth-child(3) td{padding-top:65px;}
+</style>
+    <script type="text/javascript" src="../../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+<div class="w800 h480 bc vc pr">
+ <header class="h60">
+  <h1 class="fl fc f34 fb fw h1_w">
+  GPS信息
+  </h1>
+  <a href="index.html"><img src="../../images/back.png" width="113" height="43" alt="返回按钮" class='fr mt10 mr8'></a>
+  </header>
+  <!--  主题内容 -->
+<article class="p4 pr box">
+<section></section>
+<section>
+<table width="100%">
+  <tr>
+    <td colspan="15">120km/h</td>
+    <td>0颗</td>
+    <td>0.0<sup>&deg;</sup></td>
+  </tr>
+  <tr>
+    <td colspan="15">00.00.00</td>
+    <td></td>
+    <td id='altitude'></td>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+</section>  
+</article>
+<footer class='tc mt10'> <img src="../../images/back_to_map.png" alt="返回地图按钮" name="return_map" width="153" height="53" id="return_map">
+</footer>
+</div>
+<script src="../../javascript/jquery-1.8.2.js"></script>
+<script src="../../javascript/constant.js"></script>
+<script type="text/javascript">
+$(function() {
+	//写入海拔高度
+	$('#altitude').text(localStorage['Map_altitude']);
+	$('section:nth-child(1),section:nth-child(2)').off();
+});
+</script>
+<script src="../../javascript/tab.js"></script>
+</body></html>

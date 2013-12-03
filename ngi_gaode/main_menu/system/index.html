@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title></title>
+<meta name="description" content="">
+<meta name="author" content="SitePoint">
+<link rel="stylesheet" href='../../css/base.css'>
+<link rel="stylesheet" href='../../css/common.css'>
+<style type="text/css">
+strong{display:inline-block;}
+div{background-image:url(../../images/bg01.png);}
+table{margin-left: 12px;}
+/*需设置article高度，各页面根据背景图宽度不同*/
+article{ margin-left:40px; margin-top:20px;}
+article section{float:left;}
+section:nth-child(3n) img{vertical-align:middle;}
+section:nth-child(3n) {margin-left: -10px;margin-top: 20px;}
+#right{margin-left:20px;}
+
+img{margin-left:10px;}
+li{margin-top:20px;}
+li img:nth-child(1){margin-bottom: 8px;}
+</style>
+    <script type="text/javascript" src="../../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+<div class="w800 h480 bc vc pr">
+ <header class="h60">
+  <h1 class="fl fc f34 fb fw h1_w">
+  系统设定
+  </h1>
+  <a href="../index.html"><img src="../../images/back.png" width="113" height="43" alt="返回按钮" class='fr mt10 mr8'></a>
+  </header>
+  <!--  主题内容 -->
+<article class="p4 pr">
+<section id="left">
+ <header><img src="images/map_style.png" width="105" height="26" alt="地图风格"></header>
+<ul>
+  <li><img src="../traffic/images/radio.png" width="33" height="34" alt="未选中按钮" class='daytime'><img src="images/day.png" width="284" height="53" alt="白天模式" class='daytime'></li>
+  <li><img src="../traffic/images/radio.png" width="33" height="34" alt="未选中按钮" class='night'><img src="images/night.png" width="284" height="53" alt="夜晚模式" class='night'></li>
+  <li id="dynamic"><img src="../traffic/images/radio.png" width="33" height="34" alt="未选中按钮" class='switcher'><img src="images/day_night.png" width="284" height="53" alt="昼夜自动切换按钮" class='switcher'></li>
+  </ul>
+</section>  
+<section id="right">
+ <header><img src="images/word_title04.png" width="105" height="26" alt="提示设定按钮"></header>
+<ul>
+<hgroup>
+  <li><img src="../traffic/images/radio.png" width="33" height="34" alt="未选中按钮" class="concise"><img src="images/prompt_simple.png" width="284" height="53" alt="简捷提示" class="concise"></li>
+   <li><img src="../traffic/images/radio.png" width="33" height="34" alt="未选中按钮" class="detailed"><img src="images/prompt_details.png" width="284" height="53" alt="详细提示" class="detailed"></li>
+</hgroup>   
+  <li id="path"><img src="../traffic/images/check_box.png" width="33" height="34" alt="选中按钮" class="eye"><img src="images/electic_eye.png" width="284" height="53" alt="电子眼提示" class="eye"></li>
+  </ul>
+</section>
+ <!-- 暂时不支持音量调整
+<section>
+  <img src="images/word_title05.png" width="104" height="26" alt="音量调整">
+  <img src="images/volume_down.png" width="54" height="53" alt="调低音量" class='lower'>
+  <img src="images/volume_bar09.png" width="293" height="22" alt="音量调整拖动条" id="volume">
+  <img src="images/volume_up.png" width="54" height="53" alt="调高音量" class="heighten">
+  <img src="../traffic/images/check_box.png" width="33" height="34" alt="未选中按钮" class="mute">
+  <img src="images/mute.png" width="94" height="53" alt="静音按钮" class="mute">
+</section>-->
+</article>
+<footer class='tc mt10'> <img src="../../images/back_to_map.png" alt="返回地图按钮" name="return_map" width="153" height="53" id="return_map">
+</footer>
+</div>
+<script src='../../javascript/jquery-1.8.2.js'></script>
+<script src="../../javascript/constant.js"></script>
+<script src="../../javascript/tab.js"></script>
+<script src="system.js"></script>
+<!--<script src="../traffic/func.js"></script>-->
+</body></html>

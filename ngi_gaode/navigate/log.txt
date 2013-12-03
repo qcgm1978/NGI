@@ -1,0 +1,936 @@
+
+Thu Sep 27 16:08:07 CST 2012
+Error Level: img error
+Error Message: http://127.0.0.1/NGI/ngi_gaode/navigate/images/images111/road_info_go_straight_r_1.png
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:27:10 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:27:53 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:28:18 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:31:21 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:33:48 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:35:02 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:36:20 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:37:07 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:37:10 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:38:54 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:38:56 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:39:58 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:41:19 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:42:34 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:42:34 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:42:38 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:43:20 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:43:20 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:44:03 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:45:15 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:46:22 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:46:38 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:47:43 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:47:44 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:48:06 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:50:32 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:51:54 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:55:00 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:55:00 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 18:58:47 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 19:22:09 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 19:22:10 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Sep 27 19:22:44 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 9:44:08 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 10:38:45 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 10:38:45 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 10:39:58 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 10:41:36 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 10:43:49 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 10:45:41 CST 2012
+Error Level: undefined_method
+Error Message: no message property
+Error Stack: no call stack, called outside perhaps
+
+
+Fri Sep 28 13:58:51 CST 2012
+Error Level: undefined_method
+Error Message: Object [object Window] has no method \'bindEleClickUiEvent\'
+Error Stack: TypeError: Object [object Window] has no method \'bindEleClickUiEvent\'    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:36:26)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 14:02:49 CST 2012
+Error Level: undefined_method
+Error Message: Object [object Window] has no method \'bindEleClickUiEvent\'
+Error Stack: TypeError: Object [object Window] has no method \'bindEleClickUiEvent\'    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:36:26)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 14:17:28 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'document\' of undefined
+Error Stack: TypeError: Cannot read property \'document\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:36:76)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 14:55:13 CST 2012
+Error Level: non_object_property_call
+Error Message: Cannot call method \'setPageState\' of undefined
+Error Stack: TypeError: Cannot call method \'setPageState\' of undefined    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 15:37:01 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'document\' of undefined
+Error Stack: TypeError: Cannot read property \'document\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:36:76)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 15:37:13 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'document\' of undefined
+Error Stack: TypeError: Cannot read property \'document\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:36:76)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 15:43:02 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'document\' of undefined
+Error Stack: TypeError: Cannot read property \'document\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:36:76)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 15:45:36 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'document\' of undefined
+Error Stack: TypeError: Cannot read property \'document\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:37:30)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Sep 28 15:46:38 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'document\' of undefined
+Error Stack: TypeError: Cannot read property \'document\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:37:30)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Sat Sep 29 11:21:13 CST 2012
+Error Level: undefined_method
+Error Message: Object #<Object> has no method \'createNew\'
+Error Stack: TypeError: Object 
+
+
+Sat Sep 29 14:19:15 CST 2012
+Error Level: called_non_callable
+Error Message: object is not a function
+Error Stack: TypeError: object is not a function    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:24:25)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Sat Sep 29 14:20:01 CST 2012
+Error Level: called_non_callable
+Error Message: object is not a function
+Error Stack: TypeError: object is not a function    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:24:25)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Sat Sep 29 14:20:13 CST 2012
+Error Level: called_non_callable
+Error Message: object is not a function
+Error Stack: TypeError: object is not a function    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:24:25)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Sat Sep 29 14:21:32 CST 2012
+Error Level: called_non_callable
+Error Message: object is not a function
+Error Stack: TypeError: object is not a function    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:24:25)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Sat Sep 29 14:22:14 CST 2012
+Error Level: called_non_callable
+Error Message: object is not a function
+Error Stack: TypeError: object is not a function    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:24:25)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Sat Sep 29 14:23:58 CST 2012
+Error Level: called_non_callable
+Error Message: object is not a function
+Error Stack: TypeError: object is not a function    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:24:25)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Mon Oct 8 10:04:53 CST 2012
+Error Level: unexpected_token
+Error Message: Unexpected token u
+Error Stack: SyntaxError: Unexpected token u    
+Object.parse (native)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:185:33)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Mon Oct 8 10:05:37 CST 2012
+Error Level: unexpected_token
+Error Message: Unexpected token u
+Error Stack: SyntaxError: Unexpected token u    
+Object.parse (native)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:185:33)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Mon Oct 8 10:05:47 CST 2012
+Error Level: unexpected_token
+Error Message: Unexpected token u
+Error Stack: SyntaxError: Unexpected token u    
+Object.parse (native)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:185:33)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Mon Oct 8 10:05:57 CST 2012
+Error Level: unexpected_token
+Error Message: Unexpected token u
+Error Stack: SyntaxError: Unexpected token u    
+Object.parse (native)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:185:33)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Mon Oct 8 10:06:08 CST 2012
+Error Level: unexpected_token
+Error Message: Unexpected token u
+Error Stack: SyntaxError: Unexpected token u    
+Object.parse (native)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:185:33)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Mon Oct 8 10:07:05 CST 2012
+Error Level: unexpected_token
+Error Message: Unexpected token u
+Error Stack: SyntaxError: Unexpected token u    
+Object.parse (native)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:185:33)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Tue Oct 9 13:48:46 CST 2012
+Error Level: called_non_callable
+Error Message: undefined is not a function
+Error Stack: TypeError: undefined is not a function    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:24:25)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Wed Oct 10 11:54:39 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'type\' of undefined
+Error Stack: TypeError: Cannot read property \'type\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:21:37)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Wed Oct 10 12:04:25 CST 2012
+Error Level: non_object_property_call
+Error Message: Cannot call method \'setPageState\' of undefined
+Error Stack: TypeError: Cannot call method \'setPageState\' of undefined    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Wed Oct 10 13:54:30 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'type\' of undefined
+Error Stack: TypeError: Cannot read property \'type\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:21:37)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Wed Oct 10 14:57:56 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'type\' of undefined
+Error Stack: TypeError: Cannot read property \'type\' of undefined    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:21:37)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Wed Oct 10 16:27:01 CST 2012
+Error Level: not_defined
+Error Message: businessManager is not defined
+Error Stack: ReferenceError: businessManager is not defined    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:932:9)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Thu Oct 11 10:17:51 CST 2012
+Error Level: unknown error level
+Error Message: \'iframeObj\' 未定义
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Oct 11 10:33:33 CST 2012
+Error Level: unknown error level
+Error Message: 对象不支持此属性或方法
+Error Stack: no call stack, called outside perhaps
+
+
+Thu Oct 11 10:47:44 CST 2012
+Error Level: not_defined
+Error Message: iframeObj is not defined
+Error Stack: ReferenceError: iframeObj is not defined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:100:13)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:89:40)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Thu Oct 11 10:49:35 CST 2012
+Error Level: not_defined
+Error Message: iframeObj is not defined
+Error Stack: ReferenceError: iframeObj is not defined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:100:13)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:89:40)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Fri Oct 12 11:09:53 CST 2012
+Error Level: not_defined
+Error Message: xmlDom is not defined
+Error Stack: ReferenceError: xmlDom is not defined    
+http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:23:24
+
+
+Fri Oct 12 11:11:59 CST 2012
+Error Level: not_defined
+Error Message: xmlDom is not defined
+Error Stack: ReferenceError: xmlDom is not defined    
+http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:23:24
+
+
+Fri Oct 12 11:28:26 CST 2012
+Error Level: not_defined
+Error Message: xmlDom is not defined
+Error Stack: ReferenceError: xmlDom is not defined    
+http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:23:24
+
+
+Fri Oct 12 11:28:33 CST 2012
+Error Level: not_defined
+Error Message: xmlDom is not defined
+Error Stack: ReferenceError: xmlDom is not defined    
+http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:23:24
+
+
+Fri Oct 12 11:28:53 CST 2012
+Error Level: not_defined
+Error Message: xmlDom is not defined
+Error Stack: ReferenceError: xmlDom is not defined    
+http://127.0.0.1/NGI/ngi_gaode/main_menu/destn/js/POISearchResult.js:23:24
+
+
+Mon Oct 15 12:32:20 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:104:86)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:87:40)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Mon Oct 15 12:32:51 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:104:86)    
+UiManager.setPageState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:87:40)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:931:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Tue Oct 16 14:45:06 CST 2012
+Error Level: not_defined
+Error Message: that is not defined
+Error Stack: ReferenceError: th
+is not defined    
+Object.GLOBAL.common.EleEventUiClass.bindEleClickUiEvent (http://127.0.0.1/NGI/ngi_gaode/javascript/common.js:151:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:34:17)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Tue Oct 16 14:45:09 CST 2012
+Error Level: not_defined
+Error Message: that is not defined
+Error Stack: ReferenceError: th
+is not defined    
+Object.GLOBAL.common.EleEventUiClass.bindEleClickUiEvent (http://127.0.0.1/NGI/ngi_gaode/javascript/common.js:151:17)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:34:17)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Thu Oct 18 11:50:27 CST 2012
+Error Level: called_non_callable
+Error Message: undefined is not a function
+Error Stack: TypeError: undefined is not a function    
+Object.GpsNav.initializeDemoTbt (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:24:22)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:24:20)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:522:39)
+Object.jQuery.Callbacks.self.fireWith (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:608:21)
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:184:27)
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:463:24)
+
+
+Thu Nov 1 9:39:56 CST 2012
+Error Level: undefined_method
+Error Message: Object #<UiManager> has no method \'setPageState\'
+Error Stack: TypeError: Object 
+
+
+Mon Nov 5 14:54:41 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:55:42 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:56:35 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:56:55 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:57:15 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:57:23 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:57:36 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:57:59 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:58:10 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:58:38 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:58:58 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:59:14 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 14:59:27 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 15:01:24 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 15:03:10 CST 2012
+Error Level: non_object_property_load
+Error Message: Cannot read property \'contract\' of undefined
+Error Stack: TypeError: Cannot read property \'contract\' of undefined    
+UiManager.unNaviInitialState (http://127.0.0.1/NGI/ngi_gaode/navigate/js/UiManager.js:46:86)    
+Object.GLOBAL.Event.NavScreenEvent.showMapScreen (http://127.0.0.1/NGI/ngi_gaode/navigate/js/event.js:895:19)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:25:41)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 15:18:35 CST 2012
+Error Level: unknown error level
+Error Message: poiLayer is a singleton model, it cant\'t be called again.
+Error Stack: Error: poiLayer is a singleton model, it cant\'t be called again.    
+Object.singletonInstance (http://127.0.0.1/NGI/ngi_gaode/javascript/PoiPageServiceClass.js:48:72)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:36:40)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+
+
+Mon Nov 5 15:19:57 CST 2012
+Error Level: unknown error level
+Error Message: poiLayer is a singleton model, it cant\'t be called again.
+Error Stack: Error: poiLayer is a singleton model, it cant\'t be called again.    
+Object.singletonInstance (http://127.0.0.1/NGI/ngi_gaode/javascript/PoiPageServiceClass.js:48:72)    
+HTMLDocument.<anonymous> (http://127.0.0.1/NGI/ngi_gaode/navigate/js/init_local.js:36:40)    
+jQuery.Callbacks.fire (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:974:46)    
+Object.jQuery.Callbacks.self.fireWith [as resolveWith] (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:1082:29)    
+Function.jQuery.extend.ready (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:406:23)    
+HTMLDocument.DOMContentLoaded (http://127.0.0.1/NGI/ngi_gaode/javascript/jquery-1.8.2.js:83:24)
+

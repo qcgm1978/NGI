@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title></title>
+		<meta name="description" content="">
+		<meta name="author" content="SitePoint">
+		<link rel="stylesheet" href='../../css/base.css'>
+		<link rel="stylesheet" href='../../css/common.css'>
+		<style type="text/css">
+			
+			table {
+				margin-left: 12px;
+			}
+			/*需设置article高度，各页面根据背景图宽度不同*/
+			article {
+				
+			}
+			
+			dl {
+				
+			}
+			dd input[type="text"],input[type="tel"],input[type="address"]{
+				color: #24305d;
+				font-size: 24px;
+				padding-left:20px;
+				text-align:left;
+				padding-left:20px;	
+				background:url(images/text_input.png) no-repeat; 
+				width:480px;
+			    height:50px; 
+			    background-color:transparent; border:none;
+				}
+			
+			select {
+				color: #24305d;
+				font-size: 24px;
+				background:url(images/text_input.png) no-repeat;
+				width: 500px;
+				height: 50px;
+				background-color:transparent;
+				border:none;
+				 /*border-radius: 49px/224px;*/
+			}
+			/*无效，未对option元素的文本节点应用样式*/
+			option {
+				color: #24305d;
+				font-size: 24px;
+			}
+		</style>
+        <script type="text/javascript" src="../../javascript/html5AndCss3.js"></script>
+	</head>
+	<body>
+		<div class="w800 h480 bc vc pr">
+			<header class="h60">
+				<h1 class="fl fc f34 fb fw h1_w">收 藏</h1>
+				<a href="javascript:void(0)"><img
+					src="../../images/back.png" width="113" height="43" alt="返回按钮"
+					class='fr mt10 mr8'></a>
+			</header>
+			<!--  主题内容 -->
+			<article class="p4">
+				<dl class="fc_text f24 w ml100">
+					<dt class="fl mt30 lh50">
+						<img src="images/class.png" width="89" height="32" alt="类别">
+					</dt>
+					<dd class="fl  h50 lh50 mt20 ml20">
+						<select id="category" autofocus>
+							<option>我家</option>
+							<option>公司</option>
+							<option>亲朋</option>
+							<option>客户</option>
+							<option>其他</option>
+						</select>
+					</dd>
+	
+					<dt class="fl cl mt30 lh50">
+						<img src="images/name.png" width="89" height="32" alt="名称">
+					</dt>
+					<dd class="fl   h50 lh50 mt20 ml20" >
+                    	  <input type="text" id="name" maxlength="30" />  
+                    </dd>
+	
+					<dt class="fl cl mt30 lh50">
+						<img src="images/address.png" width="89" height="31" alt="地址">
+					</dt>
+					<dd class="fl   h50 lh50 mt20 ml20">
+                        <input type="text" id="address" maxlength="30"/>
+                        </dd>
+	
+					<dt class="fl cl mt30 lh50">
+						<img src="images/telephone.png" width="88" height="31"
+							alt="电话">
+					</dt>
+					<dd class="fl   h50 lh50 mt20 ml20" >
+                       <input type="tel" id="tel" maxlength="30" />
+
+                    </dd>
+				</dl>
+			</article>
+			<footer class='tc mt30'>
+				<img src='../../rim/images/images/definitive.png' width="153"
+					height="53" alt="确定按钮" id="confirm">
+			</footer>
+		</div>
+		<!--<aside id="result" style="text-align:left;"></aside>-->
+		<script src="../../javascript/jquery-1.8.2.js"></script>
+		<script src="../../javascript/constant.js"></script>
+        <script src="../../javascript/common.js"></script>
+		<script src="../../javascript/db.js"></script>
+		<script src="../../javascript/tab.js"></script>
+		<script type="text/javascript" src="js/favoriteServiceLocal.js"></script>
+		<script type="text/javascript" src="js/favoriteAdd.js"></script>
+	</body>
+</html>

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="SitePoint">
+    <link rel="stylesheet" href='../../css/base.css'>
+    <link rel="stylesheet" href='../../css/common.css'>
+    <style type="text/css">
+        div{background-image:url(../../images/bg01.png);}
+        /*需设置article高度，各页面根据背景图宽度不同*/
+        article{ margin-top:20px;}
+        li{margin-top:20px; margin-left:45px;float:left; display:inline-block;}
+        li img:nth-child(1){margin-bottom: 8px;margin-right: 12px;}
+        .checkbox{
+            width:33px;
+            height : 34px;
+        }
+        .funcBtn{
+            width:284px;
+            height:53px
+        }
+        #TMCReroute{
+            position: relative;
+            left: -375px;
+            top: 155px;
+        }
+        #TMCReroutePrompt{
+            position: relative;
+            top: 80px;
+            left: 375px;
+        }
+    </style>
+    <script type="text/javascript" src="../../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+    <div class="w800 h480 bc vc pr">
+         <header class="h60">
+            <h1 class="fl fc f34 fb fw h1_w"> 功能设定 </h1>
+            <img src="../../images/back.png" width="113" height="43" alt="返回按钮" class='fr mt10 mr8'>
+          </header>
+          <!--  主题内容 -->
+        <article class="p4 pr">
+            <section id="right">
+            <ul>
+                <li id="path"><img src="images/check_box_on.png" class="checkbox" alt = "选中按钮"><img src="images/display_route_on.png" class="funcBtn" alt="显示路径路况"></li>
+                <li id="TMCBroadcast"><img src="images/check_box_on.png"class="checkbox" alt = "选中按钮"><img src="images/tmc_broadcast_on.png" class="funcBtn" alt="交通路况播报"></li>
+                <li id="dynamic"><img src="images/check_box_on.png"class="checkbox" alt = "选中按钮" ><img src="images/display_tmc_on.png" class="funcBtn" alt="显示动态交通信息"></li>
+
+                <li id="TMCReroute"><img src="images/check_box_on.png" class="checkbox" alt = "选中按钮"><img src="images/tmc_route_on.png" class="funcBtn" alt="智能路线路况探测"></li>
+                <li id="TMCReroutePrompt"><img src="images/check_box_on.png" class="checkbox" alt = "选中按钮"><img src="images/reroute_prompt_on.png" class="funcBtn" alt="路线重算询问"></li>
+            </ul>
+            </section>
+        </article>
+        <footer class='tc mt10'> <img src="../../images/back_to_map.png" alt="返回地图按钮" name="return_map" width="153" height="53" id="return_map"></footer>
+    </div>
+    <script src='../../javascript/jquery-1.8.2.js'></script>
+    <script src="../../javascript/constant.js"></script>
+    <!--新接口地址-->
+    <!--<script language="javascript" src="http://apiv3.test.mapabc.com/map.js?key=f9bc6d756c9176716881e278638e0bb8f5bd78lieb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f"></script> -->
+    <script src="../../javascript/tab.js"></script>
+    <script src="func.js"></script>
+</body></html>

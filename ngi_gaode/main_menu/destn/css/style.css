@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+ button{cursor:pointer;}
+  #btn_toggle{margin-top:5px;}
+ /* .nav a:link{color:white;}*/
+.nav li, .nav a:hover{cursor:pointer;}
+
+td:first-of-type{width:643px; text-align:left; background-image:url(../images/images/btn01.png); background-repeat:no-repeat; font-size:24px; font-weight:bold; padding-left:20px;
+    background-position:0 50%;
+}
+td, .fc_td{color:#24305d; height:56px;}
+td.h57{height:57px; /*width:733px;*/
+/*设置以下六个属性，确保文字过长部分被省略号截断*/
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	width: 712px;
+	display: block;
+	line-height: 57px;}
+ .li_a{background-image:url(../images/images/btn02.png); width:718px; height:43px;margin-top:8px; padding-left:15px;background-repeat: no-repeat; }
+ .child_li_a{background-image:url(../images/images/btn03.png); width:690px; height:43px;margin-top:8px;margin-left:10px; padding-left:15px; background-repeat:no-repeat;}
+ .li_no_a{background-image:url(../images/images/btn04.png); width:660px; height:43px; margin-top:8px;margin-left:20px; padding-left:15px;background-repeat:no-repeat;}
+ ul{line-height:43px;}
+article{height:410px;}
+/*ul li, ul a{font-size:20px;}*/
+.scroll{overflow-y: scroll}

@@ -1,0 +1,55 @@
+//页面文字常量
+GLOBAL.Constant = $.extend(GLOBAL.Constant, {
+    type_4s:'通用维修',
+    favor_history:'历史目的地',
+    favor_other:'收藏点',
+    destination:'目的地',
+    no_name_road:'无名道路',
+    null_value:'',
+    undefined_value:'未知',
+    //    搜索相关常量,add by zhanghongliang
+    title_destn:'目的地检索结果',
+    title_nearby:'周边检索结果',
+    prompt_request:'正在请求路线，请稍候！',
+    prompt_fail_gps:'GPS连接失败，请您稍后重试或检查终端GPS是否连接正常，部分导航功能将不能使用',
+    prompt_netFail:'网络连接失败，请您稍后重试或检查终端网络是否连接正常，部分导航功能将不能使用',
+    prompt_exception:'出现异常错误，部分功能将不能使用',
+    prompt_forbid:'模拟导航中无法进行该项操作',
+    prompt_doublication:'起点和终点重合或过近，无法计算路径',
+    prompt_delete:'确认是否删除当前',
+    prompt_delete_all:'请确认是否删除所有',
+    prompt_reroute:'正在为您重新规划路径避开拥堵路线',
+    prompt_reroute_dialog:'路线发生拥堵，是否进行路线重算?',
+    prompt_exitProgram:'请确认是否退出程序？',
+    prompt_restoreSettings:'恢复出厂设置后所有状态将初始化，请确认是否恢复出厂设置？',
+    prompt_reInput:'超出显示字数，请缩减输入信息！',
+    prompt_terminationOfNavigation:'请确认是否终止导航？',
+    prompt_recoveryByTheWay:'导航程序退出前经路引导没有结束，请确认是否恢复经路引导？',
+    prompt_requestTimedOut:'路径请求超时，请您稍后重试或检查终端网络是否连接正常',
+    //图片alt属性
+    ret_map_ini:'返回地图初始状态按钮',
+    alt_lower_left_button:{
+        ini:'返回地图初始状态按钮',
+        ret_result:"返回搜索结果按钮",
+        ret_rim_result:"返回周边搜索结果按钮",
+        expand:'展开按钮',
+        expand_simulator:'导航界面-展开按钮',
+        contract:'收缩按钮',
+        contract_simulator:'导航界面-收缩按钮',
+        //menu 和 road 是导航状态下左下角按钮的alt值
+        menu:'显示菜单栏',
+        road:'显示当前道路名称',
+        ret_pre:'返回上一页按钮',
+        ret_path:'返回路径选项页面按钮',
+        ret_subsection:'返回分段浏览页面'
+    },
+    alt_current:'自车位置图标',
+    alt_target:'目的地图标',
+    //模拟弹出窗口
+    alt_forbidden:'禁止点击',
+    alt_request_error:'请求路径失败',
+    prom_point:'您不能选择超过四个以上的目的地',
+    prom_no_result:'无检索结果或请求超时',
+    prom_beyond_num:'当前类别已经超过设定数量，请更换类别',
+    btn_name:'全图浏览'
+});

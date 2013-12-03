@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>安全提示界面</title>
+<meta name="description" content="">
+<meta name="author" content="SitePoint">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">  
+<link rel="stylesheet" href='../css/base.css'>
+<link rel="stylesheet" href='../css/common.css'>
+<style type="text/css">
+strong{display:inline-block;}
+div{background-image:url(../start/images/bg05.png);}
+table{margin-left: 12px;}
+/*需设置article高度，各页面根据背景图宽度不同*/
+#area_content img{margin-left: 49px;
+margin-top: 53px;}
+#img_first{margin-left:39px;}
+#img_last{margin-left:75px; position:inherit; }
+nav{margin-top:50px;}
+</style>
+    <script type="text/javascript" src="../javascript/html5AndCss3.js"></script>
+</head>
+<body>
+<div class="w800 h480 bc vc">
+  <!--  主题内容 -->
+<article class="p4">
+<div id='area_content'>
+  <img src="images/caution_jian.png" width="682" height="309" alt="简体安全提示">
+  <img src="images/caution_fan.png" width="682" height="309" alt="繁体内容" class="none">
+  <img src="images/caution_en.png" width="682" height="309" alt="英语内容" class="none">
+</div>
+<nav>
+  <img src="images/jianti_on.png" width="153" height="53" alt="简体按钮" id="img_first">
+  <img src="images/fanti.png" width="153" height="53" alt="繁体按钮">
+  <img src="images/english.png" width="153" height="53" alt="英语按钮">
+  <a href="../navigate/index.html"><img src="images/definitive.png" alt="确定按钮" name="img_last" width="153" height="53" id="img_last"></a> </nav>  
+</article>
+  
+</div>
+<script src="../javascript/jquery-1.8.2.js"></script>
+<script src="../javascript/constant.js"></script>
+<script src='../javascript/common.js'></script>
+<!--新接口地址-->
+<!--<script language="javascript" src="http://apiv3.test.mapabc.com/map.js?key=f9bc6d756c9176716881e278638e0bb8f5bd78ddeb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f"></script> -->
+<script type="text/javascript">
+$(function() {
+    localStorage.setItem('language','jianti');
+//绑定语种图片点击切换显示图片事件
+	$('nav img:lt(3)').click(function(e) {
+		$('nav img[src$="_on.png"]').attr('src',function(index,value){
+            return value.replace(/\_on/,'');
+        });
+        $(this).attr('src',function(index,value){
+             if (/(?!=_on)\.png$/.test(value)){
+                 return value.replace(/(\.png)$/,'_on$1');
+             }
+        })  ;
+		$('#area_content img').hide();
+		var i = $(this).index();
+		$($('#area_content img').get(i)).show();
+        if(i===0)localStorage.setItem('language','jianti');
+        if(i===1)localStorage.setItem('language','fanti');
+        if(i===2)localStorage.setItem('language','english');
+	});
+		
+	//在安全提示界面，当用户无操作时间大于10秒，画面自动迁移到导航主界面。
+	initScreenSaver();  
+	var saver;   
+	function initScreenSaver(){   
+		//blort;   
+//		saver = new ScreenSaver({timeout:10000, url: '../navigate/index.html'});
+	}  
+});
+
+
+</script>
+<script src="../javascript/tab.js"></script>
+</body></html>
